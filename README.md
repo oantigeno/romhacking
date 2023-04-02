@@ -6,12 +6,6 @@ Repositório para minhas traduções, para português do brasil, de roms de cons
 Os projetos que estou trabalhando, estão em pausa ou planejados como futuro projeto estão listados abaixo.
 <br>
 <br>
-O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
-<br>
-<br>
-A escolha dos projetos não é feita por popularidade título ou outro, apenas disponibilidade de tempo, complexidade e aprendizado. 
-<br>
-<br>
 <b>Projetos atuais:</b>
 <table>
   <tr>
@@ -39,6 +33,12 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
     <td>Edição gráfica</td>
   </tr>
 </table>
+<br>
+O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
+<br>
+<br>
+A escolha dos projetos não é feita por popularidade título ou outro, apenas disponibilidade de tempo, complexidade e aprendizado. 
+<br>
 <br>
 <h2>Traduções disponíveis</h2>
 As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
