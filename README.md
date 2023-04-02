@@ -2,14 +2,45 @@
 Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8 e 16 bits..
 <br>
 <br>
-<h2>Projetos em andamento</h2>
-Os projetos que estou trabalhando ou em pausa estão listados abaixo. Mais projetos serão adicionados a medida do possível.
+<h2>Projetos</h2>
+Os projetos que estou trabalhando, estão em pausa ou planejados como futuro projeto estão listados abaixo.
 <br>
-GB - Alien vs Predator - <b>Em andamento</b> <br>
-SMS - The Terminator    - <b>Em andamento</b><br>
-GBA - Alienatores: Evoluation Continues - <b>Parado</b><br>
 <br>
-<h2>Lista de traduções disponíveis</h2>
+O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
+<br>
+<br>
+A escolha dos projetos não é feita por popularidade título ou outro, apenas disponibilidade de tempo, complexidade e aprendizado. 
+<br>
+<br>
+<b>Projetos atuais:</b>
+<table>
+  <tr>
+    <th>Sistema</th>
+    <th>Nome do Projeto</th>
+    <th>Status</th>
+    <th>Descrição/Motivo</th>
+  </tr>
+  <tr>
+    <td>GB</td>
+    <td>Alien vs Predator</td>
+    <td>Em andamento</td>
+    <td>Revisão e testes</td>
+  </tr>
+  <tr>
+    <td>SMS</td>
+    <td>The Terminator</td>
+    <td>Em andamento </td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td>GBA</td>
+    <td>Alienatores: Evoluation Continues</td>
+    <td>Parado</td>
+    <td>Edição gráfica</td>
+  </tr>
+</table>
+<br>
+<h2>Traduções disponíveis</h2>
 As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
 Clique nos links para visitar a respectiva galeria de imagem de cada tradução.
 <br>
