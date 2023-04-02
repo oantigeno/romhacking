@@ -7,7 +7,7 @@ Os projetos que estou trabalhando ou em pausa estão listados abaixo. Mais proje
 <br>
 GB - Alien vs Predator - <b>Em andamento</b> <br>
 SMS - The Terminator    - <b>Em andamento</b><br>
-GBA - Alienatores: Evoluation Continues - <b>Parado<br>
+GBA - Alienatores: Evoluation Continues - <b>Parado</b><br>
 <br>
 <h2>Lista de traduções disponíveis</h2>
 As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
