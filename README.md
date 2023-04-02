@@ -1,7 +1,7 @@
 # Repositório de traduções
 Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8 e 16 bits..
 
-<h3>Lista de traduções</h3>
+<h3>Lista de traduções:</h3>
 
 <b>Arcade:</b><br>
 Rastan Saga (Japan Rev 1, Earlier code base)<br>
@@ -11,7 +11,7 @@ Willow(World) - CPS1<br>
 <b>Game Boy:</b><br>
 Cliffhanger (USA, Europe)<br>
 <br>
-Game Boy Advance:<br>
+<b>Game Boy Advance:</b><br>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl)<br>
 Justice League - Injustice For All (E)
 <br>
