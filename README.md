@@ -1,10 +1,13 @@
 # Repositório de traduções
 Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8 e 16 bits..
+<br>
 <h2>Projetos em andamento</h2>
 Os projetos que estou trabalhando ou em pausa estão listados abaixo. Mais projetos serão adicionados a medida do possível.
 <br>
-Alien vs Predator - GB<br>
-Alienatores: Evoluation Continues - GBA<br>
+<br>
+Alien vs Predator - GB - Em andamento <br>
+The Terminator - SMS - Em andamento<br>
+Alienatores: Evoluation Continues - GBA - Parada<br>
 Rastan Saga 2 - Arcade - Tradução perdida
 <br>
 <br>
