@@ -48,7 +48,7 @@ Rastan (UEB) [!] - https://ibb.co/album/NxcShj
 <h2>Super Nintendo - SNES</h2>
 3 Ninjas Kick Back (USA) https://ibb.co/album/pvbRcL
 <hr>
-<h2>Outros</h2>
+<h2>Outras traduções</h2>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits serão listadas aqui.
 <h3>Game Boy Advance - GBA</h3>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
