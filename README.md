@@ -18,7 +18,7 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
     <th>Sistema</th>
     <th>Nome do Projeto</th>
     <th>Status</th>
-    <th>Descrição/Motivo</th>
+    <th>Descrição/Motivo do Status</th>
   </tr>
   <tr>
     <td>GB</td>
