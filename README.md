@@ -28,7 +28,7 @@ Willow(World) - https://ibb.co/album/rky6dC
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4<br>
+Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4
 <br>
 <br>
 <h2>Game Gear</h2>
