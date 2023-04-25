@@ -62,7 +62,7 @@ Willow(World) - https://ibb.co/album/rky6dC
 Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4
 <br>
 <br>
-<h2>Game Gear</h2>
+<h2>Game Gear - SGG</h2>
 Psychic World (U) [!] - https://ibb.co/album/LvGSDb
 <br>
 <br>
