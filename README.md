@@ -20,18 +20,6 @@ Os projetos que estou trabalhando, estão em pausa ou planejados como futuro pro
     <td>Em andamento</td>
     <td>Revisão e testes</td>
   </tr>
-  <tr>
-    <td>SMS</td>
-    <td>The Terminator</td>
-    <td>Revisão e testes</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>GBA</td>
-    <td>Lady Sia</td>
-    <td>Revisão e testes</td>
-    <td>-</td>
-  </tr>
     <tr>
     <td>GB</td>
     <td>Robocop 2</td>
@@ -40,13 +28,25 @@ Os projetos que estou trabalhando, estão em pausa ou planejados como futuro pro
   </tr>
   <tr>
     <td>SMS</td>
-    <td>Vigilant</td>
+    <td>The Terminator</td>
+    <td>Em andamento</td>
+    <td>Revisão e testes</td>
+  </tr>
+  <tr>
+    <td>SMS</td>
+    <td>Vigilante</td>
     <td>Em estudo</td>
     <td>-</td>
   </tr>
-    <tr>
+  <tr>
     <td>GBA</td>
-    <td>Alienatores: Evoluation Continues</td>
+    <td>Lady Sia</td>
+    <td>Em andamento</td>
+    <td>Revisão e testes</td>
+  </tr>
+  <tr>
+    <td>GBA</td>
+    <td>Alienators: Evoluation Continues</td>
     <td>Parado</td>
     <td>Edição gráfica</td>
   </tr>
