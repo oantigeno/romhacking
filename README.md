@@ -23,7 +23,25 @@ Os projetos que estou trabalhando, estão em pausa ou planejados como futuro pro
   <tr>
     <td>SMS</td>
     <td>The Terminator</td>
-    <td>Em andamento </td>
+    <td>Revisão e testes</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>GBA</td>
+    <td>Lady Sia</td>
+    <td>Revisão e testes</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td>GB</td>
+    <td>Robocop 2</td>
+    <td>Em estudo</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>SMS</td>
+    <td>Vigilant</td>
+    <td>Em estudo</td>
     <td>-</td>
   </tr>
     <tr>
