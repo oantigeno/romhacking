@@ -3,7 +3,7 @@ Repositório para minhas traduções, para português do brasil, de roms de cons
 <br>
 <br>
 <h2>Projetos</h2>
-Os projetos que estou trabalhando, estão em pausa ou planejados como futuro projeto estão listados abaixo.
+Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto estão listados abaixo.
 <br>
 <br>
 <b>Projetos atuais:</b>
