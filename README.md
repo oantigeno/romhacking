@@ -65,7 +65,7 @@ Clique nos links para visitar a respectiva galeria de imagem de cada tradução.
 <br>
 <b>Aplicador de patch:</b> .ips
 <br>
-<a href="https://fusoya.eludevisibility.org/lips/" target="_blank">https://fusoya.eludevisibility.org/lips/ (Inglês)</a>
+https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h2>Arcade</h2>
