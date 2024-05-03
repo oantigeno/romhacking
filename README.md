@@ -23,7 +23,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <tr>
     <td>GB</td>
     <td>Robocop 2</td>
-    <td>Em estudo</td>
+    <td>Em andamento</td>
     <td>-</td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
   <tr>
     <td>SMS</td>
     <td>Vigilante</td>
-    <td>Em estudo</td>
+    <td>Em andamento</td>
     <td>-</td>
   </tr>
   <tr>
