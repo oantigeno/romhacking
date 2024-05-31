@@ -16,12 +16,6 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
   </tr>
   <tr>
     <td>GB</td>
-    <td>Alien vs Predator</td>
-    <td>Em andamento</td>
-    <td>Revisão e testes</td>
-  </tr>
-    <tr>
-    <td>GB</td>
     <td>Robocop 2</td>
     <td>Em andamento</td>
     <td>-</td>
@@ -79,6 +73,7 @@ Willow(World) - https://ibb.co/album/rky6dC
 <h2>Game Boy - GB </h2>
 Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4
 <br>
+Alien vs Predator - The Last of His Clan - https://ibb.co/album/mFLzYD
 <br>
 <h2>Game Gear - SGG</h2>
 Psychic World (U) [!] - https://ibb.co/album/LvGSDb
