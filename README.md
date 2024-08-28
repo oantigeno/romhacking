@@ -18,7 +18,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>GB</td>
     <td>Robocop 2</td>
     <td>Em andamento</td>
-    <td>-</td>
+    <td>Revisão e testes</td>
   </tr>
   <tr>
     <td>SMS</td>
@@ -26,10 +26,16 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>Em andamento</td>
     <td>Revisão e testes</td>
   </tr>
+    <tr>
+    <td>SMS</td>
+    <td>Forgotten Worlds</td>
+    <td>Em Estudo</td>
+    <td>-</td>
+  </tr>
   <tr>
     <td>SMS</td>
     <td>Vigilante</td>
-    <td>Em andamento</td>
+    <td>Parado</td>
     <td>-</td>
   </tr>
   <tr>
