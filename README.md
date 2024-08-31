@@ -1,8 +1,8 @@
-# Repositório de traduções
-Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8 e 16 bits..
+# Repositório
+Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8/16-bits..
 <br>
 <br>
-<h2>Projetos</h2>
+# Projetos
 Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto estão listados abaixo.
 <br>
 <br>
@@ -62,6 +62,13 @@ Clique nos links para visitar a respectiva <b>galeria de imagem</b> de cada trad
 https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
+<h2>Últimas traduções lançadas</h2>
+Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024
+<br>
+Terminator, The (E)[!] - Master System - 31/08/2024
+<br>
+<br>
+
 <h2>Arcade</h2>
 Rastan Saga (Japan Rev 1, Earlier code base) - https://ibb.co/album/w7L4C7 
 <br>
