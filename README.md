@@ -20,12 +20,6 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>Em andamento</td>
     <td>Revisão e testes</td>
   </tr>
-  <tr>
-    <td>SMS</td>
-    <td>The Terminator</td>
-    <td>Em andamento</td>
-    <td>Revisão e testes</td>
-  </tr>
     <tr>
     <td>SMS</td>
     <td>Forgotten Worlds</td>
@@ -60,7 +54,7 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
 <br>
 <h2>Traduções disponíveis</h2>
 As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
-Clique nos links para visitar a respectiva galeria de imagem de cada tradução.
+Clique nos links para visitar a respectiva <b>galeria de imagem</b> de cada tradução.
 <br>
 <br>
 <b>Aplicador de patch:</b> .ips
@@ -92,7 +86,8 @@ Insector X (W) (Jul 1990) [!] - https://ibb.co/album/9bbXXj
 <br>
 <br>
 <h2>Master System - SMS</h2>
-Rastan (UEB) [!] - https://ibb.co/album/NxcShj
+Rastan (UEB) [!] - https://ibb.co/album/NxcShj<br>
+Terminator, The (E)[!] - https://ibb.co/album/DfVf4K
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
