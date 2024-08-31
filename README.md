@@ -52,23 +52,22 @@ O andamento depende de tempo disponível para atuação, complexidade do harware
 A escolha dos projetos não é feita por popularidade título ou outro, apenas disponibilidade de tempo, complexidade e aprendizado. 
 <br>
 <br>
-<h2>Traduções disponíveis</h2>
-As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
-Clique nos links para visitar a respectiva <b>galeria de imagem</b> de cada tradução.
+<h1>Últimas traduções</h1>
+Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024<br>
+Terminator, The (E)[!] - Master System - 31/08/2024
 <br>
+<br>
+<h1>Traduções disponíveis</h1>
+As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
 <br>
 <b>Aplicador de patch:</b> .ips
 <br>
 https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
-<h2>Últimas traduções lançadas</h2>
-Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024
-<br>
-Terminator, The (E)[!] - Master System - 31/08/2024
+<b>Clique nos links para visitar a respectiva galeria de imagem de cada tradução.</b>
 <br>
 <br>
-
 <h2>Arcade</h2>
 Rastan Saga (Japan Rev 1, Earlier code base) - https://ibb.co/album/w7L4C7 
 <br>
@@ -100,8 +99,8 @@ Terminator, The (E)[!] - https://ibb.co/album/DfVf4K
 <h2>Super Nintendo - SNES</h2>
 3 Ninjas Kick Back (USA) https://ibb.co/album/pvbRcL
 <hr>
-<h2>Outras traduções</h2>
+<h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits serão listadas aqui.
-<h3>Game Boy Advance - GBA</h3>
+<h2>Game Boy Advance - GBA</h2>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
 Justice League - Injustice For All (E) - Galeria Pendente
