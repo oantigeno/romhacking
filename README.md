@@ -65,7 +65,7 @@ As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de
 https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
-<b>Clique nos links para visitar a respectiva galeria de imagem de cada tradução.</b>
+<b>Clique nos links para visitar a respectiva galeria de imagem de cada tradução. A galeria de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
 <h2>Arcade</h2>
@@ -80,6 +80,7 @@ Willow(World) - https://ibb.co/album/rky6dC
 Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4
 <br>
 Alien vs Predator - The Last of His Clan - https://ibb.co/album/mFLzYD
+<br>
 <br>
 <h2>Game Gear - SGG</h2>
 Psychic World (U) [!] - https://ibb.co/album/LvGSDb
