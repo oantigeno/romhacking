@@ -44,6 +44,12 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>Parado</td>
     <td>Edição gráfica</td>
   </tr>
+    <tr>
+    <td>ARCADE</td>
+    <td>Rastan Saga 2</td>
+    <td>Parado</td>
+    <td>Tradução perdida</td>
+  </tr>
 </table>
 <br>
 O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
