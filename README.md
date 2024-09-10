@@ -23,7 +23,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <tr>
     <td>SMS</td>
     <td>Forgotten Worlds</td>
-    <td>Em Estudo</td>
+    <td>Parado</td>
     <td>-</td>
   </tr>
   <tr>
