@@ -106,4 +106,4 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 <h2>Game Boy Advance - GBA</h2>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
 Justice League - Injustice For All (E) - https://ibb.co/album/Q9YHwP<br>
-Lady Sia - https://ibb.co/album/7JY4KW
+Lady Sia (U) (M6)- https://ibb.co/album/7JY4KW
