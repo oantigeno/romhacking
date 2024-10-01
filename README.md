@@ -34,12 +34,6 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
   </tr>
   <tr>
     <td>GBA</td>
-    <td>Lady Sia</td>
-    <td>Em andamento</td>
-    <td>Revisão e testes</td>
-  </tr>
-  <tr>
-    <td>GBA</td>
     <td>Alienators: Evoluation Continues</td>
     <td>Parado</td>
     <td>Edição gráfica</td>
@@ -111,3 +105,4 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 <h2>Game Boy Advance - GBA</h2>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
 Justice League - Injustice For All (E) - https://ibb.co/album/Q9YHwP
+Lady Sia - https://ibb.co/album/7JY4KW
