@@ -54,7 +54,7 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
 <br>
 <h1>Últimas traduções</h1>
 Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024<br>
-Terminator, The (E)[!] - Master System - 31/08/2024<br>
+The Terminator - Master System - 31/08/2024<br>
 Lady Sia - Gameboy Advance - 01/10/2024
 <br>
 <br>
