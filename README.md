@@ -54,7 +54,8 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
 <br>
 <h1>Últimas traduções</h1>
 Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024<br>
-Terminator, The (E)[!] - Master System - 31/08/2024
+Terminator, The (E)[!] - Master System - 31/08/2024<br>
+Lady Sia - Gameboy Advance - 01/10/2024
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
@@ -104,5 +105,5 @@ Terminator, The (E)[!] - https://ibb.co/album/DfVf4K
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
 Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
-Justice League - Injustice For All (E) - https://ibb.co/album/Q9YHwP
+Justice League - Injustice For All (E) - https://ibb.co/album/Q9YHwP<br>
 Lady Sia - https://ibb.co/album/7JY4KW
