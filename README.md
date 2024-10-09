@@ -67,7 +67,7 @@ As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de
 https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
-<b>Clique nos links para visitar a respectiva galeria de imagem de cada tradução. A galeria de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
+<b>Clique, com o botão direito para abrir uma nova aba, nos links para visitar a respectiva galeria de imagem de cada tradução. A galeria de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
 <h2>Arcade</h2>
