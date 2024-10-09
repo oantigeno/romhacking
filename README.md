@@ -71,27 +71,27 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h2>Arcade</h2>
-Rastan Saga (Japan Rev 1, Earlier code base) - https://ibb.co/album/w7L4C7 
+Rastan Saga - https://ibb.co/album/w7L4C7 
 <br>
-Toki (World, Set 1) - https://ibb.co/album/WvXNb4
+Toki - https://ibb.co/album/WvXNb4
 <br>
 Willow(World) - https://ibb.co/album/rky6dC
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-Cliffhanger (USA, Europe) - https://ibb.co/album/5WFBM4
+Cliffhanger - https://ibb.co/album/5WFBM4
 <br>
 Alien vs Predator - The Last of His Clan - https://ibb.co/album/mFLzYD
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
-Psychic World (U) [!] - https://ibb.co/album/LvGSDb
+Psychic World - https://ibb.co/album/LvGSDb
 <br>
 <br>
 <h2>Mega Drive/Genesis - SMD</h2>
-Atomic Runner (E) [!] - https://ibb.co/album/nzptw2<br>
-Atomic Robo-Kid (U) [c][!] - https://ibb.co/album/Ws9YtY<br>
-Insector X (W) (Jul 1990) [!] - https://ibb.co/album/9bbXXj
+Atomic Runner - https://ibb.co/album/nzptw2<br>
+Atomic Robo-Kid - https://ibb.co/album/Ws9YtY<br>
+Insector X - https://ibb.co/album/9bbXXj
 <br>
 <br>
 <h2>Master System - SMS</h2>
@@ -100,11 +100,11 @@ Terminator, The (E)[!] - https://ibb.co/album/DfVf4K
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
-3 Ninjas Kick Back (USA) https://ibb.co/album/pvbRcL
+3 Ninjas Kick Back - https://ibb.co/album/pvbRcL
 <hr>
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
-Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl) - https://ibb.co/album/6NWjjq<br>
-Justice League - Injustice For All (E) - https://ibb.co/album/Q9YHwP<br>
-Lady Sia (U) (M6)- https://ibb.co/album/7JY4KW
+Dinotopia - The Timestone Pirates - https://ibb.co/album/6NWjjq<br>
+Justice League - Injustice For - https://ibb.co/album/Q9YHwP<br>
+Lady Sia - https://ibb.co/album/7JY4KW
