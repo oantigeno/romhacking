@@ -95,8 +95,8 @@ Insector X - https://ibb.co/album/9bbXXj
 <br>
 <br>
 <h2>Master System - SMS</h2>
-Rastan (UEB) [!] - https://ibb.co/album/NxcShj<br>
-Terminator, The (E)[!] - https://ibb.co/album/DfVf4K
+Rastan - https://ibb.co/album/NxcShj<br>
+The Terminator - https://ibb.co/album/DfVf4K
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
