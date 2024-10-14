@@ -75,7 +75,7 @@ Rastan Saga - https://ibb.co/album/w7L4C7
 <br>
 Toki - https://ibb.co/album/WvXNb4
 <br>
-Willow(World) - https://ibb.co/album/rky6dC
+Willow - https://ibb.co/album/rky6dC
 <br>
 <br>
 <h2>Game Boy - GB </h2>
