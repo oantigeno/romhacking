@@ -60,7 +60,7 @@ Lady Sia - Gameboy Advance - 09/10/2024 - Nova versão
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
-As traduçoes listadas abaixo estã disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
+As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre como utilizá-las.<br>
 <br>
 <b>Aplicador de patch:</b> .ips
 <br>
