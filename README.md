@@ -104,7 +104,7 @@ The Terminator - https://ibb.co/album/DfVf4K
 3 Ninjas Kick Back - https://ibb.co/album/pvbRcL
 <hr>
 <h1>Outras traduções</h1>
-Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits serão listadas aqui.
+Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
 Dinotopia - The Timestone Pirates - https://ibb.co/album/6NWjjq<br>
 Justice League - Injustice For - https://ibb.co/album/Q9YHwP<br>
