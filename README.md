@@ -71,12 +71,12 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <b>Clique, com o botão direito para abrir uma nova aba, nos links para visitar a respectiva galeria de imagens de cada tradução. A galeria de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
-<h2>Arcade/Cps1/NeoGeo</h2>
-Rastan Saga - https://ibb.co/album/w7L4C7 
+<h2>Arcade</h2>
+Rastan Saga - JAMMA - https://ibb.co/album/w7L4C7 
 <br>
-Toki - https://ibb.co/album/WvXNb4
+Toki - JAMMA - https://ibb.co/album/WvXNb4
 <br>
-Willow - https://ibb.co/album/rky6dC
+Willow - CPS1 - https://ibb.co/album/rky6dC
 <br>
 <br>
 <h2>Game Boy - GB </h2>
