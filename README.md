@@ -72,40 +72,61 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h2>Arcade</h2>
-Rastan Saga - JAMMA - https://ibb.co/album/w7L4C7 
+<b>Rastan Saga</b> - JAMMA - https://ibb.co/album/w7L4C7 <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
-Toki - JAMMA - https://ibb.co/album/WvXNb4
+<b>Toki</b> - JAMMA - https://ibb.co/album/WvXNb4<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
-Willow - CPS1 - https://ibb.co/album/rky6dC
+<b>Willow</b> - CPS1 - https://ibb.co/album/rky6dC<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-Cliffhanger - https://ibb.co/album/5WFBM4
+<b>Cliffhanger</b> - https://ibb.co/album/5WFBM4 <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
-Alien vs Predator - The Last of His Clan - https://ibb.co/album/mFLzYD
+<br>
+<b>Alien vs Predator - The Last of His Clan </b> - https://ibb.co/album/mFLzYD <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
-Psychic World - https://ibb.co/album/LvGSDb
+<b>Psychic World</b> - https://ibb.co/album/LvGSDb <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Mega Drive/Genesis - SMD</h2>
-Atomic Runner - https://ibb.co/album/nzptw2<br>
-Atomic Robo-Kid - https://ibb.co/album/Ws9YtY<br>
-Insector X - https://ibb.co/album/9bbXXj
+<b>Atomic Runner</b> - https://ibb.co/album/nzptw2<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<b>Atomic Robo-Kid</b> - https://ibb.co/album/Ws9YtY<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<b>Insector X</b> - https://ibb.co/album/9bbXXj<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Master System - SMS</h2>
-Rastan - https://ibb.co/album/NxcShj<br>
-The Terminator - https://ibb.co/album/DfVf4K
+<b>Rastan</b> - https://ibb.co/album/NxcShj<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<b>The Terminator</b> - https://ibb.co/album/DfVf4K<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
-3 Ninjas Kick Back - https://ibb.co/album/pvbRcL
+<b>3 Ninjas Kick Back</b> - https://ibb.co/album/pvbRcL <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <hr>
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
-Dinotopia - The Timestone Pirates - https://ibb.co/album/6NWjjq<br>
-Justice League - Injustice For - https://ibb.co/album/Q9YHwP<br>
-Lady Sia - https://ibb.co/album/7JY4KW
+<b>Dinotopia: The Timestone Pirates</b> - https://ibb.co/album/6NWjjq<br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
+<br>
+<b>Justice League: Injustice For</b> - https://ibb.co/album/Q9YHwP<br>
+Textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<b>Lady Sia</b> - https://ibb.co/album/7JY4KW <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
