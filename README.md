@@ -83,7 +83,7 @@ Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <b>Alien vs Predator - The Last of His Clan </b> - https://ibb.co/album/mFLzYD <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <b>Robocop 2</b> - https://ibb.co/album/xqHpnY<br>
