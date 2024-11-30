@@ -15,12 +15,6 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <th>Descrição/Motivo do Status</th>
   </tr>
   <tr>
-    <td>GB</td>
-    <td>Robocop 2</td>
-    <td>Em andamento</td>
-    <td>Revisão e testes</td>
-  </tr>
-    <tr>
     <td>SMS</td>
     <td>Forgotten Worlds</td>
     <td>Parado</td>
@@ -57,7 +51,8 @@ Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024<br>
 The Terminator - Master System - 31/08/2024<br>
 Lady Sia - Gameboy Advance - 01/10/2024 - v1.5<br>
 Lady Sia - Gameboy Advance - 09/10/2024 - v1.6 - Correções ortográficas <br>
-Lady Sia - Gameboy Advance - 14/10/2024 - v1.7 - Correções ortográficas 
+Lady Sia - Gameboy Advance - 14/10/2024 - v1.7 - Correções ortográficas <br>
+Robocop 2 - Gameboy - 30/11/2024 <br>
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
@@ -88,6 +83,10 @@ Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <b>Alien vs Predator - The Last of His Clan </b> - https://ibb.co/album/mFLzYD <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<br>
+<b>Robocop 2</b> - https://ibb.co/album/xqHpnY<br>
 Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
