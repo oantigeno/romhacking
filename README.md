@@ -87,7 +87,7 @@ Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <b
 <br>
 <br>
 <b>Robocop 2</b> - https://ibb.co/album/xqHpnY<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
