@@ -58,7 +58,7 @@ The Terminator - Master System - 31/08/2024<br>
 Lady Sia - Gameboy Advance - 01/10/2024 - v1.5<br>
 Lady Sia - Gameboy Advance - 09/10/2024 - v1.6 - Correções ortográficas <br>
 Lady Sia - Gameboy Advance - 14/10/2024 - v1.7 - Correções ortográficas <br>
-<b>Robocop 2 - Gameboy - 30/11/2024 </b><br>
+<b>Robocop 2 - Gameboy - 30/11/2024 - 1.3</b><br>
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
