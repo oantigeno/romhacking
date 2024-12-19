@@ -54,11 +54,11 @@ A escolha dos projetos não é feita por popularidade título ou outro, apenas d
 <br>
 <h1>Últimas traduções</h1>
 Alien vs Predator - The Last of His Clan - GameBoy - 31/05/2024<br>
-The Terminator - Master System - 31/08/2024<br>
-Lady Sia - Gameboy Advance - 01/10/2024 - v1.5<br>
+The Terminator - Master System - 31/08/2024 - Versão inicial<br>
+Lady Sia - Gameboy Advance - 01/10/2024 - v1.5 - Versão inicial<br>
 Lady Sia - Gameboy Advance - 09/10/2024 - v1.6 - Correções ortográficas <br>
 Lady Sia - Gameboy Advance - 14/10/2024 - v1.7 - Correções ortográficas <br>
-<b>Robocop 2 - Gameboy - 30/11/2024 - 1.3</b><br>
+<b>Robocop 2 - Gameboy - 30/11/2024 - v1.3 - Versão inicial</b><br>
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
