@@ -26,6 +26,12 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>Parado</td>
     <td>-</td>
   </tr>
+    <tr>
+    <td>SMS</td>
+    <td>Strider</td>
+    <td>Teste e Revisão</td>
+    <td>-</td>
+  </tr>
   <tr>
     <td>GBA</td>
     <td>Alienators: Evoluation Continues</td>
