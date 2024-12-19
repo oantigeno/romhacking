@@ -28,8 +28,8 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
   </tr>
     <tr>
     <td><b>SMS</b></td>
-    <td></b>Strider</b></td>
-    <td></b>Teste e Revisão</b></td>
+    <td><b>Strider</b></td>
+    <td><b>Teste e Revisão</b></td>
     <td>-</td>
   </tr>
   <tr>
