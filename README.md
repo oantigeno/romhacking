@@ -49,7 +49,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
 O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
 <br>
 <br>
-A escolha dos projetos não é feita por popularidade título ou outro, apenas disponibilidade de tempo, complexidade e aprendizado. 
+A escolha dos projetos não é feita por popularidade título, apenas por disponibilidade de tempo, complexidade e aprendizado. 
 <br>
 <br>
 <h1>Últimas traduções</h1>
