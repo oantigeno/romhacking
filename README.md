@@ -114,7 +114,7 @@ Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edi�
 <b>The Terminator</b> - https://ibb.co/album/DfVf4K<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
-<b>Strider</b> - https://ibb.co/album/DfVf4K<br>
+<b>Strider</b> - https://ibb.co/album/RYkBC9<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
