@@ -26,12 +26,6 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
     <td>Parado</td>
     <td>-</td>
   </tr>
-    <tr>
-    <td><b>SMS</b></td>
-    <td><b>Strider</b></td>
-    <td><b>Teste e Revisão</b></td>
-    <td>-</td>
-  </tr>
   <tr>
     <td>GBA</td>
     <td>Alienators: Evoluation Continues</td>
@@ -59,6 +53,7 @@ Lady Sia - Gameboy Advance - 01/10/2024 - v1.05 <br>
 Lady Sia - Gameboy Advance - 09/10/2024 - v1.06 - Correções ortográficas <br>
 Lady Sia - Gameboy Advance - 14/10/2024 - v1.07 - Correções ortográficas <br>
 <b>Robocop 2 - Gameboy - 30/11/2024 - v1.03</b><br>
+<b>Strider - Master System - 24/12/2024 - v1.01</b><br>
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
@@ -74,13 +69,13 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <h2>Arcade</h2>
 <b>Rastan Saga</b> - JAMMA - https://ibb.co/album/w7L4C7 <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Toki</b> - JAMMA - https://ibb.co/album/WvXNb4<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Willow</b> - CPS1 - https://ibb.co/album/rky6dC<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Game Boy - GB </h2>
@@ -89,35 +84,38 @@ Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <b>Alien vs Predator - The Last of His Clan </b> - https://ibb.co/album/mFLzYD <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <b>Robocop 2</b> - https://ibb.co/album/xqHpnY<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
 <b>Psychic World</b> - https://ibb.co/album/LvGSDb <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Mega Drive/Genesis - SMD</h2>
 <b>Atomic Runner</b> - https://ibb.co/album/nzptw2<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Atomic Robo-Kid</b> - https://ibb.co/album/Ws9YtY<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Insector X</b> - https://ibb.co/album/9bbXXj<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Master System - SMS</h2>
 <b>Rastan</b> - https://ibb.co/album/NxcShj<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>The Terminator</b> - https://ibb.co/album/DfVf4K<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<br>
+<b>Strider</b> - https://ibb.co/album/DfVf4K<br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
@@ -128,10 +126,10 @@ Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <b
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
 <b>Justice League: Injustice For</b> - https://ibb.co/album/Q9YHwP<br>
-Textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 99% - Programação:- - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Dinotopia: The Timestone Pirates</b> - https://ibb.co/album/6NWjjq<br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
+Textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
 <br>
 <b>Lady Sia</b> - https://ibb.co/album/7JY4KW <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
+Textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
