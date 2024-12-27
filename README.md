@@ -180,9 +180,9 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <table>
   <tr>
     <td><img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/></td>
-    <td><img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/></td>
-    <td><img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/></td>
-    <td><img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/></td>
+    <td><img src="https://i.ibb.co/CB6CRPn/strider-013.png"/></td>
+    <td><img src="https://i.ibb.co/z7dKMsF/strider-009.png"/></td>
+    <td><img src="https://i.ibb.co/z7dKMsF/strider-009.png"/></td>
   </tr>
 </table>
 <br>
