@@ -3,20 +3,20 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 <b>Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.</b><br>
 <br>
 <h1>Últimas traduções</h1>
-31/05/2024<br><br>
-Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
-31/08/2024<br><br>
-The Terminator - Master System -  v1.09<br>
-01/10/2024<br><br>
-Lady Sia - Gameboy Advance -  v1.05 <br>
-09/10/2024<br><br>
-Lady Sia - Gameboy Advance - v1.06<br>
+31/05/2024<br>
+Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br><br>
+31/08/2024<br>
+The Terminator - Master System -  v1.09<br><br>
+01/10/2024<br>
+Lady Sia - Gameboy Advance -  v1.05 <br><br>
+09/10/2024<br>
+Lady Sia - Gameboy Advance - v1.06<br><br>
 Correções ortográficas <br>
-14/10/2024<br><br>
-Lady Sia - Gameboy Advance - v1.07 - Correções ortográficas <br>
-30/11/2024<br><br>
-Robocop 2 - Gameboy - v1.03<br>
-24/12/2024<br><br> 
+14/10/2024<br>
+Lady Sia - Gameboy Advance - v1.07<br>Correções ortográficas <br><br>
+30/11/2024<br>
+Robocop 2 - Gameboy - v1.03<br><br>
+24/12/2024<br>
 <b>Strider - Master System - v1.01</b><br>
 <br>
 <br>
