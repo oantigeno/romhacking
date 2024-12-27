@@ -109,6 +109,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <b>Clique, com o botão direito para abrir uma nova aba, nos links para visitar a respectiva galeria de imagens de cada tradução.<br> A galeria completa de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
+<!-- ARCADE -->
 <h1>Arcade</h1>
 <b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
@@ -123,6 +124,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 :camera: https://ibb.co/album/rky6dC<br>
 <br>
 <br>
+<!-- GAME BOY -->
 <h2>Game Boy - GB </h2>
 <b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
@@ -137,12 +139,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 Imagens: https://ibb.co/album/xqHpnY<br>
 <br>
 <br>
+<!-- GAME GEAR -->
 <h2>Game Gear - SGG</h2>
 <b><ins>Psychic World</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <br>
 <br>
+<!-- MEGA DRIVE -->
 <h2>Mega Drive/Genesis - SMD</h2>
 <b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
@@ -157,6 +161,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
  Imagens: https://ibb.co/album/9bbXXj<br>
 <br>
 <br>
+<!-- MASTER SYSTEM -->
 <h2>Master System - SMS</h2>
 <b><ins>Rastan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
@@ -167,15 +172,17 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 Imagens: https://ibb.co/album/DfVf4K<br>
 <br>
 <b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
-Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
 <br>
+<!-- SUPER NINTENDO -->
 <h2>Super Nintendo - SNES</h2>
 <b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/pvbRcL<br>
 <hr>
+
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
