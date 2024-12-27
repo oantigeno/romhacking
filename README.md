@@ -109,7 +109,8 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <b>Clique, com o botão direito para abrir uma nova aba, nos links para visitar a respectiva galeria de imagens de cada tradução.<br> A galeria completa de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
-:camera:: Galeria completa de imagens :heavy_check_mark:: Tradução 100%
+:camera:: Galeria completa de imagens<br>
+:heavy_check_mark:: Tradução 100%
 <!-- ARCADE -->
 <h1>Arcade</h1>
 <b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
