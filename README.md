@@ -1,7 +1,7 @@
 # :file_folder: Repositório 
 Aqui é repositório para minhas traduções, para português brasileiro, de roms de consoles, portáteis e arcades da eras 8/16-bits e também outras. <br><br>
-<b>Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.</b>
-<br>
+<b><ins>Download</ins></b><br>
+Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.<br>
 <br>
 <br>
 <h1>:newspaper: Últimas traduções</h1>
