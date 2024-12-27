@@ -18,7 +18,7 @@ Correções ortográficas<br><br>
 <ins>30/11/2024</ins><br>
 Robocop 2 - Gameboy - v1.03<br><br>
 <ins>24/12/2024</ins><br>
-Strider - Master System - v1.01<br>
+<b>Strider - Master System - v1.01</b><br>
 <br>
 <br>
 <h1Projetos</h1>
