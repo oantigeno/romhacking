@@ -73,8 +73,9 @@ Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edi�
 Imagens: https://ibb.co/album/w7L4C7
 <br>
 <br>
-<b>Toki</b> - Imagens: https://ibb.co/album/WvXNb4<br>
+<b>Toki</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+ Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
 <b>Willow</b> - CPS1 - Imagens: https://ibb.co/album/rky6dC<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
