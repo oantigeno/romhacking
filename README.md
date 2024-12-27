@@ -54,7 +54,7 @@ Aqui você conferir ou acompanhar as últimas traduções lançadas e também no
   </tr>
 </table>
 <br>
-<h1>Projetos</h1>
+<h1>:joystick: Projetos</h1>
 Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
 <br>
 <br>
