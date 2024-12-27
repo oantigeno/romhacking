@@ -47,7 +47,7 @@ Aqui você conferir ou acompanhar as últimas traduções lançadas e também no
   </tr>
   <tr>
      <td>
-       <ins><b>24/12/2024</b></ins><br>
+       <ins><b>24/12/2024</b></ins>:boom:<br>
        Strider - Master System - v1.01<br>
        <i>Release inicial</i><br>
      </td>
