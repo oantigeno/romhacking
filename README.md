@@ -3,7 +3,7 @@ Repositório para minhas traduções, para português do brasil, de roms de cons
 Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.<br>
 
 # Projetos
-Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto estão listados abaixo.
+Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
 <br>
 <br>
 <b>Projetos atuais:</b>
@@ -40,7 +40,7 @@ Os projetos que estou trabalhando, em pausa ou planejados como futuro projeto es
   </tr>
 </table>
 <br>
-O andamento depende de tempo disponível para atuação, complexidade do harware e do projeto, não havendo possibilidade de uma data específica para conclusão.
+O andamento depende de tempo disponível para atuação, complexidade do hardware e do projeto, não havendo possibilidade de uma data específica para conclusão.
 <br>
 <br>
 A escolha dos projetos não é feita por popularidade título, apenas por disponibilidade de tempo, complexidade e aprendizado. 
