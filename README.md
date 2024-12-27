@@ -68,10 +68,10 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h2>Arcade</h2>
-<b>Rastan Saga</b> - JAMMA <br> Imagens: https://ibb.co/album/w7L4C7 <br>
+<b>Rastan Saga</b> - Imagens: https://ibb.co/album/w7L4C7 <br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
-<b>Toki</b> - JAMMA - Imagens: https://ibb.co/album/WvXNb4<br>
+<b>Toki</b> - Imagens: https://ibb.co/album/WvXNb4<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <b>Willow</b> - CPS1 - Imagens: https://ibb.co/album/rky6dC<br>
