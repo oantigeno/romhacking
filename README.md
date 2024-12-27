@@ -54,7 +54,7 @@ Aqui você conferir ou acompanhar as últimas traduções lançadas e também no
   </tr>
 </table>
 <br>
-<h1>:joystick: Projetos</h1>
+<h1>:hammer_and_wrench: Projetos</h1>
 Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
 <br>
 <br>
@@ -98,7 +98,7 @@ O andamento depende de tempo disponível para atuação, complexidade do hardwar
 A escolha dos projetos não é feita por popularidade título, apenas por disponibilidade de tempo, complexidade e aprendizado. 
 <br>
 <br>
-<h1>:earth_americas: Traduções Lançadas</h1>
+<h1>:joystick: Traduções Lançadas</h1>
 As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-la.<br>
 <br>
 <b>Aplicador de patch:</b> .ips
@@ -166,7 +166,7 @@ Imagens: https://ibb.co/album/NxcShj<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/DfVf4K<br>
 <br>
-<b><ins>Strider</ins></b><br>
+<b><ins>Strider</ins></b>:boom:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
