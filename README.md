@@ -147,7 +147,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <br>
 <br>
 <!-- MEGA DRIVE -->
-<h2>Mega Drive/Genesis - SMD</h2>
+<h2>Mega Drive - SMD</h2>
 <b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/nzptw2<br>
@@ -177,7 +177,7 @@ Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
 <br>
 <!-- SUPER NINTENDO -->
-<h2>Super Nintendo - SNES</h2>
+<h2>Super NES - SNES</h2>
 <b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/pvbRcL<br>
