@@ -110,7 +110,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h1>Arcade</h1>
-:white_check_mark:<b><ins>Rastan Saga</ins></b><br>
+:heavy_check_mark:<b><ins>Rastan Saga</ins></b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/w7L4C7<br>
 <br>
@@ -128,7 +128,7 @@ Imagens: https://ibb.co/album/rky6dC<br>
 Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/5WFBM4 <br>
 <br>
-<b><ins>Alien vs Predator - The Last of His Clan</ins></b> <br>
+:heavy_check_mark:<b><ins>Alien vs Predator - The Last of His Clan</ins></b> <br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/mFLzYD <br>
 <br>
@@ -148,7 +148,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/nzptw2<br>
 <br>
-<b><ins>Atomic Robo-Kid</ins></b><br> 
+:heavy_check_mark:<b><ins>Atomic Robo-Kid</ins></b><br> 
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/Ws9YtY<br>
 <br>
