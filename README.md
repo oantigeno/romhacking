@@ -57,7 +57,7 @@ Robocop 2 - Gameboy - 30/11/2024 - v1.03<br>
 <br>
 <br>
 <h1>Traduções disponíveis</h1>
-As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-las.<br>
+As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-la.<br>
 <br>
 <b>Aplicador de patch:</b> .ips
 <br>
