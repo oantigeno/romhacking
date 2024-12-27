@@ -110,7 +110,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 <br>
 <h1>Arcade</h1>
-:heavy_check_mark:<b><ins>Rastan Saga</ins></b><br>
+<b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/w7L4C7<br>
 <br>
