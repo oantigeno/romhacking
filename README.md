@@ -6,6 +6,25 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 <br>
 <h1>Últimas traduções</h1>
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
+<table>
+  <tr>
+    <th></th>
+  </tr>
+  <tr>
+    <td><ins>31/05/2024</ins><br>
+Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
+<i>Release inicial</i><br><br></td>
+  </tr>
+  <tr>
+    <td>SMS</td>
+  </tr>
+  <tr>
+    <td>GBA</td>
+  </tr>
+    <tr>
+    <td>ARCADE</td>
+  </tr>
+</table>
 <ins>31/05/2024</ins><br>
 Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
 <i>Release inicial</i><br><br>
