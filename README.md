@@ -1,5 +1,6 @@
 # Repositório
-Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8/16-bits..
+Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8/16-bits.
+![alt text](https://i.ibb.co/pzwHkKV/strider-006.png)
 <br>
 <br>
 # Projetos
