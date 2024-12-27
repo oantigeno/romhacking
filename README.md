@@ -112,7 +112,8 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <!-- ARCADE -->
 <h1>Arcade</h1>
 <b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% - :camera: https://ibb.co/album/w7L4C7<br>
+Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
+:camera: https://ibb.co/album/w7L4C7<br>
 <br>
 <b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
