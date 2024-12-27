@@ -69,25 +69,25 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
   <tr>
     <td>SMS</td>
     <td>Forgotten Worlds</td>
-    <td>Parado</td>
+    <td>:pause_button:</td>
     <td>-</td>
   </tr>
   <tr>
     <td>SMS</td>
     <td>Vigilante</td>
-    <td>Parado</td>
+    <td>:pause_button:</td>
     <td>-</td>
   </tr>
   <tr>
     <td>GBA</td>
     <td>Alienators: Evoluation Continues</td>
-    <td>Parado</td>
+    <td>:pause_button:</td>
     <td>Edição gráfica</td>
   </tr>
     <tr>
     <td>ARCADE</td>
     <td>Rastan Saga 2</td>
-    <td>Parado</td>
+    <td>:stop_button:</td>
     <td>Tradução perdida</td>
   </tr>
 </table>
