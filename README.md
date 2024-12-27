@@ -166,7 +166,7 @@ Imagens: https://ibb.co/album/NxcShj<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/DfVf4K<br>
 <br>
-:heavy_check_mark:<b><ins>Strider</ins></b>:boom:<br>
+<b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
