@@ -130,15 +130,15 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <h2>Game Boy - GB </h2>
 <b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
-Imagens: https://ibb.co/album/5WFBM4 <br>
+:camera: https://ibb.co/album/5WFBM4 <br>
 <br>
 <b><ins>Alien vs Predator - The Last of His Clan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
-Imagens: https://ibb.co/album/mFLzYD <br>
+:camera: https://ibb.co/album/mFLzYD <br>
 <br>
 <b><ins>Robocop 2</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
-Imagens: https://ibb.co/album/xqHpnY<br>
+:camera: https://ibb.co/album/xqHpnY<br>
 <br>
 <br>
 <!-- GAME GEAR -->
@@ -152,37 +152,37 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <h2>Mega Drive - SMD</h2>
 <b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/nzptw2<br>
+:camera: https://ibb.co/album/nzptw2<br>
 <br>
 <b><ins>Atomic Robo-Kid</ins></b>:heavy_check_mark:<br> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/Ws9YtY<br>
+:camera: https://ibb.co/album/Ws9YtY<br>
 <br>
 <b><ins>Insector X</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
- Imagens: https://ibb.co/album/9bbXXj<br>
+:camera: https://ibb.co/album/9bbXXj<br>
 <br>
 <br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS</h2>
 <b><ins>Rastan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/NxcShj<br>
+:camera: https://ibb.co/album/NxcShj<br>
 <br>
 <b><ins>The Terminator</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/DfVf4K<br>
+:camera: https://ibb.co/album/DfVf4K<br>
 <br>
 <b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/RYkBC9<br>
+:camera: https://ibb.co/album/RYkBC9<br>
 <br>
 <br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES</h2>
 <b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/pvbRcL<br>
+:camera: https://ibb.co/album/pvbRcL<br>
 <hr>
 
 <h1>Outras traduções</h1>
@@ -190,12 +190,12 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 <h2>Game Boy Advance - GBA</h2>
 <b><ins>Justice League: Injustice For All</ins></b><br>
 Tradução de textos: 100% - Acentuação: 99% - Programação:- - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: https://ibb.co/album/Q9YHwP<br>
+:camera: https://ibb.co/album/Q9YHwP<br>
 <br>
 <b><ins>Dinotopia: The Timestone Pirates</ins></b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
-Imagens: https://ibb.co/album/6NWjjq<br>
+:camera: https://ibb.co/album/6NWjjq<br>
 <br>
 <b><ins>Lady Sia</ins></b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
-Imagens: https://ibb.co/album/7JY4KW <br>
+:camera: https://ibb.co/album/7JY4KW <br>
