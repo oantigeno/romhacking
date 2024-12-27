@@ -77,62 +77,76 @@ Imagens: https://ibb.co/album/w7L4C7
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
  Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
-<b>Willow</b> - CPS1 - Imagens: https://ibb.co/album/rky6dC<br>
+<b>Willow</b> - CPS1<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/rky6dC<br>
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-<b>Cliffhanger</b> - Imagens: https://ibb.co/album/5WFBM4 <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
+<b>Cliffhanger</b><br>
+Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+Imagens: https://ibb.co/album/5WFBM4 <br>
 <br>
 <br>
-<b>Alien vs Predator - The Last of His Clan </b> - Imagens: https://ibb.co/album/mFLzYD <br>
-Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
-<br>
-<br>
-<b>Robocop 2</b> - Imagens: https://ibb.co/album/xqHpnY<br>
+<b>Alien vs Predator - The Last of His Clan </b> <br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+Imagens: https://ibb.co/album/mFLzYD <br>
+<br>
+<br>
+<b>Robocop 2</b><br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+ Imagens: https://ibb.co/album/xqHpnY<br>
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
-<b>Psychic World</b> - Imagens: https://ibb.co/album/LvGSDb <br>
+<b>Psychic World</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/LvGSDb<br>
 <br>
 <br>
 <h2>Mega Drive/Genesis - SMD</h2>
-<b>Atomic Runner</b> - Imagens: https://ibb.co/album/nzptw2<br>
+<b>Atomic Runner</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/nzptw2<br>
 <br>
-<b>Atomic Robo-Kid</b> - Imagens: https://ibb.co/album/Ws9YtY<br>
+<b>Atomic Robo-Kid</b><br> 
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/Ws9YtY<br>
 <br>
 <b>Insector X</b> - Imagens: https://ibb.co/album/9bbXXj<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <br>
 <br>
 <h2>Master System - SMS</h2>
-<b>Rastan</b> - Imagens: https://ibb.co/album/NxcShj<br>
+<b>Rastan</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/NxcShj<br>
 <br>
-<b>The Terminator</b> - Imagens: https://ibb.co/album/DfVf4K<br>
+<b>The Terminator</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/DfVf4K<br>
 <br>
-<b>Strider</b> - Imagens: https://ibb.co/album/RYkBC9<br>
+<b>Strider</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
-<b>3 Ninjas Kick Back</b> - Imagens: https://ibb.co/album/pvbRcL <br>
+<b>3 Ninjas Kick Back</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/pvbRcL<br>
 <hr>
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
-<b>Justice League: Injustice For</b> - Imagens: https://ibb.co/album/Q9YHwP<br>
+<b>Justice League: Injustice For</b><br>
 Textos: 100% - Acentuação: 99% - Programação:- - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: https://ibb.co/album/Q9YHwP<br>
 <br>
-<b>Dinotopia: The Timestone Pirates</b> - Imagens: https://ibb.co/album/6NWjjq<br>
+<b>Dinotopia: The Timestone Pirates</b><br>
 Textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
+Imagens: https://ibb.co/album/6NWjjq<br>
 <br>
-<b>Lady Sia</b> - Imagens: https://ibb.co/album/7JY4KW <br>
+<b>Lady Sia</b><br>
 Textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
+Imagens: https://ibb.co/album/7JY4KW <br>
