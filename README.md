@@ -137,7 +137,7 @@ Imagens: https://ibb.co/album/pvbRcL<br>
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
-<b><ins>Justice League: Injustice For</ins></b><br>
+<b><ins>Justice League: Injustice For All</ins></b><br>
 Textos: 100% - Acentuação: 99% - Programação:- - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/Q9YHwP<br>
 <br>
