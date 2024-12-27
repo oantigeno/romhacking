@@ -10,8 +10,8 @@ The Terminator - Master System -  v1.09<br><br>
 01/10/2024<br>
 Lady Sia - Gameboy Advance -  v1.05 <br><br>
 09/10/2024<br>
-Lady Sia - Gameboy Advance - v1.06<br><br>
-Correções ortográficas <br>
+Lady Sia - Gameboy Advance - v1.06<br>
+Correções ortográficas<br><br>
 14/10/2024<br>
 Lady Sia - Gameboy Advance - v1.07<br>
 Correções ortográficas<br><br>
