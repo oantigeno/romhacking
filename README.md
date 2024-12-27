@@ -1,5 +1,6 @@
 # Repositório
 Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8/16-bits.
+![title](https://i.ibb.co/pzwHkKV/strider-006.png)
 <br>
 <br>
 # Projetos
@@ -116,7 +117,6 @@ Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edi�
 <br>
 <b>Strider</b> - https://ibb.co/album/RYkBC9<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-!(https://i.ibb.co/pzwHkKV/strider-006.png)
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
