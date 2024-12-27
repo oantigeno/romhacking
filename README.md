@@ -22,7 +22,7 @@ Robocop 2 - Gameboy - v1.03<br><br>
 <b>Strider</b> - Master System - v1.01<br>
 <br>
 <br>
-<h1></h1>Projetos</h1>
+<h1>Projetos</h1>
 Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
 <br>
 <br>
