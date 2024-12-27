@@ -114,17 +114,17 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/w7L4C7<br>
 <br>
-<b><ins>Toki</ins></b>:white_check_mark:<br>
+<b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
-<b><ins>Willow</ins></b> - CPS1 :white_check_mark:<br>
+<b><ins>Willow</ins></b> - CPS1 :heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/rky6dC<br>
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-<b><ins>Cliffhanger</ins></b>:white_check_mark:<br>
+<b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/5WFBM4 <br>
 <br>
