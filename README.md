@@ -176,8 +176,8 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <br>
 <b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-:camera: https://ibb.co/album/RYkBC9<br>
-<img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/>
+:camera: https://ibb.co/album/RYkBC9<br><br>
+<img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/> <img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/> 
 <br>
 <br>
 <!-- SUPER NINTENDO -->
