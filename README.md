@@ -1,6 +1,6 @@
 # Repositório
 Repositório para minhas traduções, para português do brasil, de roms de consoles, portáteis e arcades da eras 8/16-bits.
-$${\color{lightgreen}RASTAN SAGA}$$
+$${\color{lightgreen}RASTAN&nbspSAGA}$$
 <br>
 <br>
 # Projetos
