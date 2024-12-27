@@ -118,7 +118,7 @@ Imagens: https://ibb.co/album/w7L4C7<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
-<b><ins>Willow</ins>:heavy_check_mark:</b> - CPS1<br>
+<b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/rky6dC<br>
 <br>
