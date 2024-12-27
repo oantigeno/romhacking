@@ -13,7 +13,8 @@ Lady Sia - Gameboy Advance -  v1.05 <br><br>
 Lady Sia - Gameboy Advance - v1.06<br><br>
 Correções ortográficas <br>
 14/10/2024<br>
-Lady Sia - Gameboy Advance - v1.07<br>Correções ortográficas <br><br>
+Lady Sia - Gameboy Advance - v1.07<br>
+Correções ortográficas<br><br>
 30/11/2024<br>
 Robocop 2 - Gameboy - v1.03<br><br>
 24/12/2024<br>
