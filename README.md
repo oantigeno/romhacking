@@ -114,55 +114,55 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/w7L4C7<br>
 <br>
-:heavy_check_mark:<b><ins>Toki</ins></b><br>
+<b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
-:heavy_check_mark:<b><ins>Willow</ins></b> - CPS1<br>
+<b><ins>Willow</ins>:heavy_check_mark:</b> - CPS1<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/rky6dC<br>
 <br>
 <br>
 <h2>Game Boy - GB </h2>
-:heavy_check_mark:<b><ins>Cliffhanger</ins></b><br>
+<b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/5WFBM4 <br>
 <br>
-:heavy_check_mark:<b><ins>Alien vs Predator - The Last of His Clan</ins></b> <br>
+<b><ins>Alien vs Predator - The Last of His Clan</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/mFLzYD <br>
 <br>
-:heavy_check_mark:<b><ins>Robocop 2</ins></b><br>
+<b><ins>Robocop 2</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 Imagens: https://ibb.co/album/xqHpnY<br>
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
-:heavy_check_mark:<b><ins>Psychic World</ins></b><br>
+<b><ins>Psychic World</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <br>
 <br>
 <h2>Mega Drive/Genesis - SMD</h2>
-:heavy_check_mark:<b><ins>Atomic Runner</ins></b><br>
+<b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/nzptw2<br>
 <br>
-:heavy_check_mark:<b><ins>Atomic Robo-Kid</ins></b><br> 
+<b><ins>Atomic Robo-Kid</ins></b>:heavy_check_mark:<br> 
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/Ws9YtY<br>
 <br>
-:heavy_check_mark:<b><ins>Insector X</ins></b><br>
+<b><ins>Insector X</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
  Imagens: https://ibb.co/album/9bbXXj<br>
 <br>
 <br>
 <h2>Master System - SMS</h2>
-:heavy_check_mark:<b><ins>Rastan</ins></b><br>
+<b><ins>Rastan</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/NxcShj<br>
 <br>
-:heavy_check_mark:<b><ins>The Terminator</ins></b><br>
+<b><ins>The Terminator</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/DfVf4K<br>
 <br>
@@ -172,7 +172,7 @@ Imagens: https://ibb.co/album/RYkBC9<br>
 <br>
 <br>
 <h2>Super Nintendo - SNES</h2>
-:heavy_check_mark:<b><ins>3 Ninjas Kick Back</ins></b><br>
+<b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/pvbRcL<br>
 <hr>
