@@ -70,16 +70,16 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <h1>Arcade</h1>
 <b>Rastan Saga</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
-Imagens: https://ibb.co/album/w7L4C7
-<br>
+Imagens: https://ibb.co/album/w7L4C7<br>
 <br>
 <b>Toki</b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
- Imagens: https://ibb.co/album/WvXNb4<br>
+Imagens: https://ibb.co/album/WvXNb4<br>
 <br>
 <b>Willow</b> - CPS1<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/rky6dC<br>
+<br>
 <br>
 <h2>Game Boy - GB </h2>
 <b>Cliffhanger</b><br>
