@@ -4,7 +4,7 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 <br>
 <br>
 <br>
-<h1>Últimas traduções</h1>
+<h1>:newspaper: Últimas traduções</h1>
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
 <table>
   <tr>
