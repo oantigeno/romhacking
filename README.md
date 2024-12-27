@@ -8,39 +8,49 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
 <table>
   <tr>
-    <td><ins>31/05/2024</ins><br>
-Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
-<i>Release inicial</i><br><br></td>
+    <td>
+      <ins>31/05/2024</ins><br>
+      Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
+      <i>Release inicial</i><br><br></td>
   </tr>
   <tr>
-    <td><ins>31/08/2024</ins><br>
-The Terminator - Master System -  v1.09<br>
-<i>Release inicial</i><br><br></td>
+    <td>
+     <ins>31/08/2024</ins><br>
+     The Terminator - Master System -  v1.09<br>
+     <i>Release inicial</i><br><br></td>
   </tr>
   <tr>
-    <td><ins>01/10/2024</ins><br>
-Lady Sia - Gameboy Advance -  v1.05 <br>
-<i>Release inicial</i><br><br></td>
+    <td>
+      <ins>01/10/2024</ins><br>
+      Lady Sia - Gameboy Advance -  v1.05 <br>
+      <i>Release inicial</i><br><br></td>
   </tr>
     <tr>
-    <td><ins>09/10/2024</ins><br>
-Lady Sia - Gameboy Advance - v1.06<br>
-<i>Correções ortográficas</i><br><br></td>
+    <td>
+      <ins>09/10/2024</ins><br>
+      Lady Sia - Gameboy Advance - v1.06<br>
+      <i>Correções ortográficas</i><br><br></td>
   </tr>
-      <tr>
-    <td><ins>14/10/2024</ins><br>
-Lady Sia - Gameboy Advance - v1.07<br>
-<i>Correções ortográficas</i><br><br></td>
+  <tr>
+    <td>
+      <ins>14/10/2024</ins><br>
+      Lady Sia - Gameboy Advance - v1.07<br>
+      <i>Correções ortográficas</i><br><br>
+    </td>
   </tr>
-        <tr>
-    <td><ins>30/11/2024</ins><br>
-Robocop 2 - Gameboy - v1.03<br>
-<i>Release inicial</i><br><br></td>
+  <tr>
+    <td>
+      <ins>30/11/2024</ins><br>
+       Robocop 2 - Gameboy - v1.03<br>
+       <i>Release inicial</i><br><br>
+    </td>
   </tr>
-        <tr>
-    <td><ins>24/12/2024</ins><br>
-<b>Strider</b> - Master System - v1.01<br>
-<i>Release inicial</i><br></td>
+  <tr>
+     <td>
+       <ins><b>24/12/2024</b></ins><br>
+       Strider - Master System - v1.01<br>
+       <i>Release inicial</i><br>
+     </td>
   </tr>
 </table>
 <br>
