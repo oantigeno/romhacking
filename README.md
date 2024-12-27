@@ -4,7 +4,6 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 <br>
 <br>
 <br>
-<img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/>
 <h1>:newspaper: Últimas traduções</h1>
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
 <table>
@@ -178,6 +177,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br>
+<img src="https://i.ibb.co/3Y6BY6g/strider-001.png"/>
 <br>
 <br>
 <!-- SUPER NINTENDO -->
