@@ -110,8 +110,9 @@ Imagens: https://ibb.co/album/nzptw2<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/Ws9YtY<br>
 <br>
-<b><ins>Insector X</ins></b> - Imagens: https://ibb.co/album/9bbXXj<br>
+<b><ins>Insector X</ins></b><br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+ Imagens: https://ibb.co/album/9bbXXj<br>
 <br>
 <br>
 <h2>Master System - SMS</h2>
