@@ -3,6 +3,7 @@ Aqui é repositório para minhas traduções, para português brasileiro, de rom
 <b>Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.</b><br>
 <br>
 <h1>Últimas traduções</h1>
+Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.
 <ins>31/05/2024</ins><br>
 Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br><br>
 <ins>31/08/2024</ins><br>
