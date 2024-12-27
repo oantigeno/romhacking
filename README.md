@@ -106,7 +106,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/nzptw2<br>
 <br>
-<b>Atomic Robo-Kid</b><br> 
+<b><ins>Atomic Robo-Kid</ins></b><br> 
 Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/Ws9YtY<br>
 <br>
