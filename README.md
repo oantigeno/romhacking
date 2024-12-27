@@ -12,7 +12,7 @@ Robocop 2 - Gameboy - 30/11/2024 - v1.03<br>
 <b>Strider - Master System - 24/12/2024 - v1.01</b><br>
 <br>
 <br>
-# Projetos
+<h1Projetos</h1>
 Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
 <br>
 <br>
