@@ -120,7 +120,7 @@ Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edi�
 <br>
 <h2>Super Nintendo - SNES</h2>
 <b>3 Ninjas Kick Back</b> - https://ibb.co/album/pvbRcL <br>
-Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 <hr>
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
