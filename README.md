@@ -11,10 +11,10 @@ The Terminator - Master System -  v1.09<br><br>
 Lady Sia - Gameboy Advance -  v1.05 <br><br>
 <ins>09/10/2024</ins><br>
 Lady Sia - Gameboy Advance - v1.06<br>
-Correções ortográficas<br><br>
+<i>Correções ortográficas</i><br><br>
 <ins>14/10/2024</ins><br>
 Lady Sia - Gameboy Advance - v1.07<br>
-Correções ortográficas<br><br>
+<i>Correções ortográficas</i><br><br>
 <ins>30/11/2024</ins><br>
 Robocop 2 - Gameboy - v1.03<br><br>
 <ins>24/12/2024</ins><br>
