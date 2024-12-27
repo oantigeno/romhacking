@@ -52,7 +52,7 @@ The Terminator - Master System - 31/08/2024 - 1.09<br>
 Lady Sia - Gameboy Advance - 01/10/2024 - v1.05 <br>
 Lady Sia - Gameboy Advance - 09/10/2024 - v1.06 - Correções ortográficas <br>
 Lady Sia - Gameboy Advance - 14/10/2024 - v1.07 - Correções ortográficas <br>
-<b>Robocop 2 - Gameboy - 30/11/2024 - v1.03</b><br>
+Robocop 2 - Gameboy - 30/11/2024 - v1.03<br>
 <b>Strider - Master System - 24/12/2024 - v1.01</b><br>
 <br>
 <br>
@@ -88,7 +88,7 @@ Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edi�
 <br>
 <br>
 <b>Robocop 2</b> - https://ibb.co/album/xqHpnY<br>
-Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%
+Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 <br>
 <br>
 <h2>Game Gear - SGG</h2>
