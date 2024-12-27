@@ -74,7 +74,7 @@ Acentuação: 100%<br>
 Programação: 100%<br>
 Ponteiros: 100%<br>
 Edição Gráfica: 100% <br>
-Imagens: [https://ibb.co/album/WvXNb4](https://ibb.co/album/w7L4C7)
+Imagens: https://ibb.co/album/w7L4C7
 <br>
 <br>
 <b>Toki</b> - Imagens: https://ibb.co/album/WvXNb4<br>
