@@ -86,7 +86,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 :camera:: Galeria completa de imagens<br>
 :heavy_check_mark:: Tradução 100%<br>
-:spiral_notepad:: Informações sobre a tradução/Leiame.txt<br>
+:spiral_notepad:: Leiame.txt<br>
 :hash: Número de traduções
 <!-- ARCADE -->
 <h1>Arcade :three:</h1>
