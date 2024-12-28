@@ -184,7 +184,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG</h2>
-:radio_button:<b>Psychic World</ins>:heavy_check_mark:<br>
+:radio_button:<b>Psychic World</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <table>
