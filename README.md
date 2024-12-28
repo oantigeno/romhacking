@@ -195,7 +195,6 @@ Imagens: https://ibb.co/album/LvGSDb<br>
     <td><img src="https://i.ibb.co/L0J1SQV/intro-8.png"/></td>
   </tr>
 </table>
-<br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD</h2>
 <b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
@@ -266,7 +265,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/CPXMCVW/strider-015.png"/></td>
   </tr>
 </table>
-<br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES</h2>
 <b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
