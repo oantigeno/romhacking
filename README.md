@@ -117,6 +117,14 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
+    <td><img src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
+    <td><img src="https://i.ibb.co/zRHX1sD/0003.png"/></td>
+    <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
@@ -133,7 +141,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/Zfj6M65/0005.png"/></td>
+    <td><img src="https://i.ibb.co/d2L51bL/0037.png"/></td>
+    <td><img src="https://i.ibb.co/PNHX4R2/0036.png"/></td>
+    <td><img src="https://i.ibb.co/6Hrbfc9/0007.png"/></td>
+  </tr>
+</table>
 <br>
 <!-- GAME BOY -->
 <h2>Game Boy - GB </h2>
