@@ -125,7 +125,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
-:radio_button: <b><ins>Toki</ins></b>:heavy_check_mark:<br>
+:radio_button: <b>Toki</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
@@ -136,7 +136,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
-:radio_button:<b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
+:radio_button:<b>Willow - CPS1:heavy_check_mark:</b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
@@ -149,7 +149,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- GAME BOY -->
 <h2>Game Boy - GB </h2>
-<b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Cliffhanger</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
 <table>
@@ -160,7 +160,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
     <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
   </tr>
 </table>
-<b><ins>Alien vs Predator - The Last of His Clan</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Alien vs Predator - The Last of His Clan</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
 <table>
@@ -171,7 +171,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/XkmwhfR/Alien-vs-Predator-The-Last-of-His-Clan-USA-12.png"/></td>
   </tr>
 </table>
-<b><ins>Robocop 2</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Robocop 2</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
 <table>
@@ -184,7 +184,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG</h2>
-<b><ins>Psychic World</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Psychic World</ins>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <table>
@@ -197,7 +197,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 </table>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD</h2>
-<b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Atomic Runner</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/nzptw2<br>
 <table>
@@ -208,7 +208,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/PFfmCpL/Atomic-Runner-E-021.png"/></td>
   </tr>
 </table>
-<b><ins>Atomic Robo-Kid</ins></b>:heavy_check_mark:<br> 
+:radio_button:<b>Atomic Robo-Kid</b>:heavy_check_mark:<br> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Ws9YtY<br>
 <table>
@@ -219,7 +219,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/zNLJv4w/Atomic-Robo-Kid-USA-016.png"/></td>
   </tr>
 </table>
-<b><ins>Insector X</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Insector X</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
 <table>
@@ -232,7 +232,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS</h2>
-<b><ins>Rastan</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>Rastan</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/NxcShj<br>
 <table>
@@ -243,7 +243,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/bKTq3Py/Rastan-UEB-8.png"/></td>
   </tr>
 </table>
-<b><ins>The Terminator</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>The Terminator</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/DfVf4K<br>
 <table>
@@ -254,7 +254,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/RDj8fSD/Terminator-The-E-4.png"/></td>
   </tr>
 </table>
-<b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
+:radio_button:<b>Strider</b>:heavy_check_mark: :fire:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br><br>
 <table>
@@ -267,7 +267,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES</h2>
-<b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
+:radio_button:<b>3 Ninjas Kick Back</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
 <table>
