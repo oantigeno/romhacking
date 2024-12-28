@@ -139,6 +139,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
     <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
@@ -150,6 +151,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/XkmwhfR/Alien-vs-Predator-The-Last-of-His-Clan-USA-12.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Robocop 2 :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
@@ -175,6 +177,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
     <td><img src="https://i.ibb.co/L0J1SQV/intro-8.png"/></td>
   </tr>
 </table>
+<br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD :three:</h2>
 <h3>Atomic Runner :heavy_check_mark:</h3>
@@ -188,6 +191,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/PFfmCpL/Atomic-Runner-E-021.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Atomic Robo-Kid :heavy_check_mark:</h3> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Ws9YtY<br>
@@ -199,6 +203,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/zNLJv4w/Atomic-Robo-Kid-USA-016.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Insector X :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
@@ -224,6 +229,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/bKTq3Py/Rastan-UEB-8.png"/></td>
   </tr>
 </table>
+<br>
 <h3>The Terminator :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/DfVf4K<br>
@@ -235,6 +241,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/RDj8fSD/Terminator-The-E-4.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Strider :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br><br>
