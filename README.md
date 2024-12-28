@@ -90,7 +90,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 :hash: Número de traduções
 <!-- ARCADE -->
 <h1>Arcade :three:</h1>
-<h3>Rastan Saga :heavy_check_mark:</h3>
+<h3><ins>Rastan Saga</ins> :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
 <table>
