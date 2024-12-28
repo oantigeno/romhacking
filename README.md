@@ -125,7 +125,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
@@ -137,7 +136,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
@@ -149,7 +147,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/6Hrbfc9/0007.png"/></td>
   </tr>
 </table>
-<br>
 <!-- GAME BOY -->
 <h2>Game Boy - GB </h2>
 <b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
@@ -220,7 +217,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/y8Jbj9s/Insector-X-W-Jul-1990-008.png"/></td>
   </tr>
 </table>
-<br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS</h2>
 <b><ins>Rastan</ins></b>:heavy_check_mark:<br>
@@ -234,7 +230,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/bKTq3Py/Rastan-UEB-8.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>The Terminator</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/DfVf4K<br>
@@ -246,7 +241,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/RDj8fSD/Terminator-The-E-4.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>Strider</ins></b>:heavy_check_mark: :fire:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br><br>
@@ -258,7 +252,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/CPXMCVW/strider-015.png"/></td>
   </tr>
 </table>
-<br>
 <br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES</h2>
@@ -274,7 +267,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   </tr>
 </table>
 <hr>
-
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA</h2>
