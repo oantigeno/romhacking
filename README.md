@@ -111,10 +111,10 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 <br>
 :camera:: Galeria completa de imagens<br>
 :heavy_check_mark:: Tradução 100%<br>
-:spiral_notepad:: Informações sobre a tradução/Leiame.txt
+:spiral_notepad:: Informações sobre a tradução/Leiame.txt<br>
 <!-- ARCADE -->
 :radio_button:<h1>Arcade</h1>
-<b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
+:radio_button:<b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
 <table>
@@ -136,7 +136,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
-<b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
+:radio_button:<b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
