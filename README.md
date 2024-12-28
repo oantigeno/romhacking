@@ -123,6 +123,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/6Hrbfc9/0007.png"/></td>
   </tr>
 </table>
+<br>
 <!-- GAME BOY -->
 <h2>Game Boy - GB :three: </h2>
 <h3>Cliffhanger :heavy_check_mark:</h3>
@@ -158,6 +159,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/sb0Rwsq/Robo-Cop-2-USA-Europe-4.png"/></td>
   </tr>
 </table>
+<br>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG :one:</h2>
 <h3>Psychic World :heavy_check_mark:</h3>
@@ -206,6 +208,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/y8Jbj9s/Insector-X-W-Jul-1990-008.png"/></td>
   </tr>
 </table>
+<br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS :three:</h2>
 <h3>Rastan :heavy_check_mark:</h3>
@@ -241,6 +244,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/CPXMCVW/strider-015.png"/></td>
   </tr>
 </table>
+<br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES :one:</h2>
 <b>3 Ninjas Kick Back :heavy_check_mark:</b>
