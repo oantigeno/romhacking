@@ -120,9 +120,9 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <table>
   <tr>
     <td><img width="640" height="240" src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
-    <td><img src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
-    <td><img src="https://i.ibb.co/VqBDXDC/0039.png"/></td>
-    <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
+    <td><img width="640" height="240" src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/VqBDXDC/0039.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
 <b><ins>Toki</ins></b>:heavy_check_mark:<br>
@@ -130,10 +130,10 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/34DWjyH/0000.png"/></td>
-    <td><img src="https://i.ibb.co/MRqMhh8/0036.png"/></td>
-    <td><img src="https://i.ibb.co/DMth500/0004.png"/></td>
-    <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/34DWjyH/0000.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/MRqMhh8/0036.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/DMth500/0004.png"/></td>
+    <td><img width="640" height="240"  src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
 <b><ins>Willow - CPS1</ins>:heavy_check_mark:</b><br>
