@@ -201,11 +201,25 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <b><ins>Atomic Runner</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/nzptw2<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/1RXnKQ0/Atomic-Runner-E-000.png"/></td>
+    <td><img src="https://i.ibb.co/rdCT7dM/Atomic-Runner-E-001.png"/></td>
+    <td><img src="https://i.ibb.co/867rq8T/Atomic-Runner-E-016.png"/></td>
+    <td><img src="https://i.ibb.co/PFfmCpL/Atomic-Runner-E-021.png"/></td>
+  </tr>
+</table>
 <b><ins>Atomic Robo-Kid</ins></b>:heavy_check_mark:<br> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Ws9YtY<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/sJ7fhY2/Atomic-Robo-Kid-USA-002.png"/></td>
+    <td><img src="https://i.ibb.co/hRhrNj5/Atomic-Robo-Kid-USA-005.png"/></td>
+    <td><img src="https://i.ibb.co/c21KS6B/Atomic-Robo-Kid-U-c-000.png"/></td>
+    <td><img src="https://i.ibb.co/zNLJv4w/Atomic-Robo-Kid-USA-016.png"/></td>
+  </tr>
+</table>
 <b><ins>Insector X</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
