@@ -119,7 +119,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 :camera: https://ibb.co/album/w7L4C7<br>
 <table>
   <tr>
-    <td><img width="" height="" src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
+    <td><img width="640" height="480" src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
     <td><img src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
     <td><img src="https://i.ibb.co/VqBDXDC/0039.png"/></td>
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
