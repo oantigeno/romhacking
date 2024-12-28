@@ -101,7 +101,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
-:radio_button: <b>Toki</b> :heavy_check_mark:<br>
+<h3>Toki :heavy_check_mark:</h3> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
@@ -112,7 +112,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
-:radio_button:<b>Willow - CPS1</b> :heavy_check_mark:<br>
+<h3>Willow - CPS1 :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
@@ -125,7 +125,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <!-- GAME BOY -->
 <h2>Game Boy - GB :three: </h2>
-:radio_button:<b>Cliffhanger</b>:heavy_check_mark:<br>
+<h3>Cliffhanger :heavy_check_mark:</h3><br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
 <table>
@@ -136,7 +136,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
     <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
   </tr>
 </table>
-:radio_button:<b>Alien vs Predator - The Last of His Clan</b>:heavy_check_mark:<br>
+<h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
 <table>
