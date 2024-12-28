@@ -192,6 +192,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>3 Ninjas Kick Back</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/x747SHP/3-Ninjas-Kick-Back-USA-20200229-112850.png"/></td>
+    <td><img src="https://i.ibb.co/hV1F6X0/3-Ninjas-Kick-Back-USA-20200229-112934.png"/></td>
+    <td><img src="https://i.ibb.co/1MpD9Rf/3-Ninjas-Kick-Back-USA-20200229-113254.png"/></td>
+    <td><img src="https://i.ibb.co/8Xc65RF/3-Ninjas-Kick-Back-USA-20200229-113542.png"/></td>
+  </tr>
+</table>
 <hr>
 
 <h1>Outras traduções</h1>
