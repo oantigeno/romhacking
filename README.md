@@ -113,7 +113,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 :heavy_check_mark:: Tradução 100%<br>
 :spiral_notepad:: Informações sobre a tradução/Leiame.txt
 <!-- ARCADE -->
-<h1>Arcade</h1>
+<h1>:radio_button: Arcade</h1>
 <b><ins>Rastan Saga</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
@@ -125,7 +125,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
-<b><ins>Toki</ins></b>:heavy_check_mark:<br>
+:radio_button: <b><ins>Toki</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
