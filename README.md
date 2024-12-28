@@ -206,6 +206,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Rastan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/NxcShj<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/mv0m9s7/Rastan-UEB.png"/></td>
+    <td><img src="https://i.ibb.co/HDRG0wV/Rastan-UEB-3.png"/></td>
+    <td><img src="https://i.ibb.co/S5YQxsd/Rastan-UEB-2.png"/></td>
+    <td><img src="https://i.ibb.co/bKTq3Py/Rastan-UEB-8.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>The Terminator</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
