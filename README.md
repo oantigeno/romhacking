@@ -163,7 +163,6 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
     <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>Alien vs Predator - The Last of His Clan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
@@ -175,7 +174,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/XkmwhfR/Alien-vs-Predator-The-Last-of-His-Clan-USA-12.png"/></td>
   </tr>
 </table>
-<br>
 <b><ins>Robocop 2</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
@@ -187,7 +185,6 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/sb0Rwsq/Robo-Cop-2-USA-Europe-4.png"/></td>
   </tr>
 </table>
-<br>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG</h2>
 <b><ins>Psychic World</ins></b>:heavy_check_mark:<br>
