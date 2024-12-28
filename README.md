@@ -101,6 +101,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Toki :heavy_check_mark:</h3> 
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
@@ -112,6 +113,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
     <td><img src="https://i.ibb.co/jHMyt1W/0008.png"/></td>
   </tr>
 </table>
+<br>
 <h3>Willow - CPS1 :heavy_check_mark:</h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
