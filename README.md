@@ -93,6 +93,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 :radio_button:<b>Rastan Saga</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: [link](https://ibb.co/album/w7L4C7)<br>
+[I'm an inline-style link](https://www.google.com)
 <table>
   <tr>
     <td><img src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
