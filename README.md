@@ -155,15 +155,38 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Cliffhanger</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/CPn0D5t/bgb00001.png"/></td>
+    <td><img src="https://i.ibb.co/VSnq8Nr/bgb00015.png"/></td>
+    <td><img src="https://i.ibb.co/5xMsTcN/bgb00004.png"/></td>
+    <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>Alien vs Predator - The Last of His Clan</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/rFd0Dmk/Alien-vs-Predator-The-Last-of-His-Clan-USA-06.png"/></td>
+    <td><img src="https://i.ibb.co/BZYvT6M/Alien-vs-Predator-The-Last-of-His-Clan-USA-13.png"/></td>
+    <td><img src="https://i.ibb.co/mh4HD6x/Alien-vs-Predator-The-Last-of-His-Clan-USA-11.png"/></td>
+    <td><img src="https://i.ibb.co/XkmwhfR/Alien-vs-Predator-The-Last-of-His-Clan-USA-12.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>Robocop 2</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/z5P98Nj/Robo-Cop-2-USA-Europe-01.png"/></td>
+    <td><img src="https://i.ibb.co/L9nBYWh/Robo-Cop-2-USA-Europe-03.png"/></td>
+    <td><img src="https://i.ibb.co/0hQYCDG/Robo-Cop-2-USA-Europe-24.png"/></td>
+    <td><img src="https://i.ibb.co/sb0Rwsq/Robo-Cop-2-USA-Europe-4.png"/></td>
+  </tr>
+</table>
 <br>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG</h2>
