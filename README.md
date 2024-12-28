@@ -170,7 +170,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Psychic World</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/R74qdgN/Psychic-World-U-7.png"/></td>
+    <td><img src="https://i.ibb.co/PWX0vsN/imagem2.png"/></td>
+    <td><img src="https://i.ibb.co/fqfc0kK/Psychic-World-U-16.png"/></td>
+    <td><img src="https://i.ibb.co/L0J1SQV/intro-8.png"/></td>
+  </tr>
+</table>
 <br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD</h2>
