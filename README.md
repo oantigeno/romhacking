@@ -162,7 +162,14 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <b><ins>Insector X</ins></b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
-<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/7S1G0rZ/Insector-X-W-Jul-1990-001.png"/></td>
+    <td><img src="https://i.ibb.co/6WvdXzK/Insector-X-W-Jul-1990-002.png"/></td>
+    <td><img src="https://i.ibb.co/MpDqhSX/Insector-X-W-Jul-1990-003.png"/></td>
+    <td><img src="https://i.ibb.co/y8Jbj9s/Insector-X-W-Jul-1990-008.png"/></td>
+  </tr>
+</table>
 <br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS</h2>
