@@ -9,7 +9,7 @@ Aqui você conferir ou acompanhar as últimas traduções lançadas e também no
 <table>
   <tr>
     <td>
-      <ins>31/05/2024</ins>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br>
+      <ins>31/05/2024</ins><br>
       Alien vs Predator - The Last of His Clan - GameBoy -  v1.05<br>
       <i>Release inicial</i><br><br></td>
   </tr>
