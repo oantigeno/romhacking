@@ -73,7 +73,7 @@ O andamento depende de tempo disponível para atuação, complexidade do hardwar
 A escolha dos projetos não é feita por popularidade título, apenas por disponibilidade de tempo, complexidade e aprendizado. 
 <br>
 <br>
-<h1>:joystick: Traduções Lançadas</h1>
+<h1>:joystick: Traduções Lançadas :one::seven:</h1>
 As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-la.<br>
 <br>
 <b>Aplicador de patch:</b> .ips
