@@ -87,7 +87,7 @@ https://fusoya.eludevisibility.org/lips/ (Inglês)
 :heavy_check_mark:: Tradução 100%<br>
 :spiral_notepad:: Informações sobre a tradução/Leiame.txt<br>
 <!-- ARCADE -->
-<h1>Arcade</h1>
+<h1>Arcade(3)</h1>
 :radio_button:<b>Rastan Saga</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
@@ -122,7 +122,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   </tr>
 </table>
 <!-- GAME BOY -->
-<h2>Game Boy - GB </h2>
+<h2>Game Boy - GB(3) </h2>
 :radio_button:<b>Cliffhanger</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
@@ -157,7 +157,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   </tr>
 </table>
 <!-- GAME GEAR -->
-<h2>Game Gear - SGG</h2>
+<h2>Game Gear - SGG(1)</h2>
 :radio_button:<b>Psychic World</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
@@ -170,7 +170,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
   </tr>
 </table>
 <!-- MEGA DRIVE -->
-<h2>Mega Drive - SMD</h2>
+<h2>Mega Drive - SMD(3)</h2>
 :radio_button:<b>Atomic Runner</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/nzptw2<br>
@@ -205,7 +205,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   </tr>
 </table>
 <!-- MASTER SYSTEM -->
-<h2>Master System - SMS</h2>
+<h2>Master System - SMS(3)</h2>
 :radio_button:<b>Rastan</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/NxcShj<br>
@@ -240,7 +240,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   </tr>
 </table>
 <!-- SUPER NINTENDO -->
-<h2>Super NES - SNES</h2>
+<h2>Super NES - SNES(1)</h2>
 :radio_button:<b>3 Ninjas Kick Back</b>:heavy_check_mark:<br>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
