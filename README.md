@@ -298,3 +298,11 @@ Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 1
 <b><ins>Lady Sia</ins></b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/7JY4KW <br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/S7Zjcn4/Lady-Sia-USA-En-Fr-De-Es-It-Nl-8.png"/></td>
+    <td><img src="https://i.ibb.co/23jkNxd/Lady-Sia-USA-En-Fr-De-Es-It-Nl-1.png"/></td>
+    <td><img src="https://i.ibb.co/zSc0SwV/Lady-Sia-USA-En-Fr-De-Es-It-Nl-17.png"/></td>
+    <td><img src="https://i.ibb.co/1z6DYyM/Lady-Sia-USA-En-Fr-De-Es-It-Nl-26.png"/></td>
+  </tr>
+</table>
