@@ -274,10 +274,26 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 <b><ins>Justice League: Injustice For All</ins></b><br>
 Tradução de textos: 100% - Acentuação: 99% - Programação:- - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Q9YHwP<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/YdxRjyr/justice00.png"/></td>
+    <td><img src="https://i.ibb.co/hRZ3RnX/justice04.png"/></td>
+    <td><img src="https://i.ibb.co/mRRwDXr/justice03.png"/></td>
+    <td><img src="https://i.ibb.co/xSQq7tk/justice02.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>Dinotopia: The Timestone Pirates</ins></b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/6NWjjq<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/b5PHKJY/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-02.png"/></td>
+    <td><img src="https://i.ibb.co/L08Wyw2/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-00.png"/></td>
+    <td><img src="https://i.ibb.co/dc6hTr9/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-03.png"/></td>
+    <td><img src="https://i.ibb.co/CH8XNhc/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-16.png"/></td>
+  </tr>
+</table>
 <br>
 <b><ins>Lady Sia</ins></b><br>
 Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 100% - Edição Gráfica: - <br>
