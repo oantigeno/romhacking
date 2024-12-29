@@ -256,7 +256,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES :one:</h2>
-<b>3 Ninjas Kick Back :heavy_check_mark:</b>
+<h3>3 Ninjas Kick Back :heavy_check_mark: </h3>
 Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
 <table>
