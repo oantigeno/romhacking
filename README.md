@@ -289,7 +289,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação:- - Ponteiros: 1
 <table>
   <tr>
     <td><img src="https://i.ibb.co/b5PHKJY/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-02.png"/></td>
-    <td><img src="https://i.ibb.co/L08Wyw2/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-00.png"/></td>
+    <td><img src="https://i.ibb.co/ZhwCQpJ/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-01.png"/></td>
     <td><img src="https://i.ibb.co/dc6hTr9/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-03.png"/></td>
     <td><img src="https://i.ibb.co/CH8XNhc/Dinotopia-The-Timestone-Pirates-USA-Europe-En-Fr-De-Es-It-Nl-16.png"/></td>
   </tr>
