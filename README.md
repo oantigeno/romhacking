@@ -271,7 +271,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <h1>Outras traduções</h1>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA :three:</h2>
-<b><ins>Justice League: Injustice For All</ins></b><br>
+<h3>Justice League: Injustice For All</h3>
 Tradução de textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Q9YHwP<br>
 <table>
@@ -283,7 +283,7 @@ Tradução de textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Grá
   </tr>
 </table>
 <br>
-<b><ins>Dinotopia: The Timestone Pirates</ins></b><br>
+<h3>Dinotopia: The Timestone Pirates</h3>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/6NWjjq<br>
 <table>
@@ -295,7 +295,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
   </tr>
 </table>
 <br>
-<b><ins>Lady Sia</ins></b><br>
+<h3>Lady Sia</h3>
 Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/7JY4KW <br>
 <table>
