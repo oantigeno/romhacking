@@ -237,7 +237,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
   <tr>
     <td><img src="https://i.ibb.co/FwG8Vwz/Terminator-The-E-2.png"/></td>
     <td><img src="https://i.ibb.co/3cYF5bk/Terminator-The-E.png"/></td>
-    <td><img src="https://i.ibb.co/RhYLG9p/Terminator-The-E-8.png"/></td>
+    <td><img src="https://i.ibb.co/6FGMk94/Terminator-The-E-41.png"/></td>
     <td><img src="https://i.ibb.co/RDj8fSD/Terminator-The-E-4.png"/></td>
   </tr>
 </table>
