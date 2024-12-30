@@ -85,7 +85,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <!-- ARCADE -->
 <h1>Arcade :three:</h1>
 <h3>Rastan Saga :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
 <table>
   <tr>
@@ -109,7 +109,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Willow - CPS1 :heavy_check_mark:</h3>
-<b>Status:</b>Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
   <tr>
