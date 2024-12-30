@@ -97,7 +97,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Toki :heavy_check_mark:</h3> 
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
   <tr>
@@ -109,7 +109,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Willow - CPS1 :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b>Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
   <tr>
@@ -123,7 +123,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <!-- GAME BOY -->
 <h2>Game Boy - GB :three: </h2>
 <h3>Cliffhanger :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
 <table>
   <tr>
@@ -135,7 +135,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
 </table>
 <br>
 <h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
 <table>
   <tr>
@@ -147,7 +147,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Robocop 2 :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
 <table>
   <tr>
@@ -161,7 +161,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG :one:</h2>
 <h3>Psychic World :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <table>
   <tr>
@@ -175,7 +175,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD :three:</h2>
 <h3>Atomic Runner :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/nzptw2<br>
 <table>
   <tr>
@@ -187,7 +187,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Atomic Robo-Kid :heavy_check_mark:</h3> 
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Ws9YtY<br>
 <table>
   <tr>
@@ -199,7 +199,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Insector X :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
 <table>
   <tr>
@@ -213,7 +213,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS :three:</h2>
 <h3>Rastan :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/NxcShj<br>
 <table>
   <tr>
@@ -225,7 +225,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>The Terminator :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/DfVf4K<br>
 <table>
   <tr>
@@ -237,7 +237,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 </table>
 <br>
 <h3>Strider :heavy_check_mark:</h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br><br>
 <table>
   <tr>
@@ -251,7 +251,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES :one:</h2>
 <h3>3 Ninjas Kick Back :heavy_check_mark: </h3>
-Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
 <table>
   <tr>
@@ -266,7 +266,7 @@ Tradução de textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiro
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA :three:</h2>
 <h3>Justice League: Injustice For All</h3>
-Tradução de textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+<b>Status:</b> Textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Q9YHwP<br>
 <table>
   <tr>
@@ -278,7 +278,7 @@ Tradução de textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Grá
 </table>
 <br>
 <h3>Dinotopia: The Timestone Pirates</h3>
-Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/6NWjjq<br>
 <table>
   <tr>
@@ -290,7 +290,7 @@ Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gr�
 </table>
 <br>
 <h3>Lady Sia</h3>
-Tradução de textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/7JY4KW <br>
 <table>
   <tr>
