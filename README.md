@@ -89,7 +89,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 :camera: https://ibb.co/album/w7L4C7<br>
 <table>
   <tr>
-    <td><img style="width: 50%; height: 50%;" src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
+    <td><img width="125%" height="125%" src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
     <td><img src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
     <td><img src="https://i.ibb.co/VqBDXDC/0039.png"/></td>
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
