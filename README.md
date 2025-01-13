@@ -87,19 +87,19 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <h3>Rastan Saga :heavy_check_mark:</h3>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
-    <img width="50%" height="50%" src="https://i.ibb.co/3hvP1JJ/0001.png"/>
+<!--    <img width="50%" height="50%" src="https://i.ibb.co/3hvP1JJ/0001.png"/>
     <img src="https://i.ibb.co/n0z5tL3/0038.png"/>
     <img src="https://i.ibb.co/VqBDXDC/0039.png"/>
-    <img src="https://i.ibb.co/yh0Z5pF/0005.png"/>
+    <img src="https://i.ibb.co/yh0Z5pF/0005.png"/> -->
 
-<!-- <table>
+<table>
   <tr>
     <td><img src="https://i.ibb.co/3hvP1JJ/0001.png"/></td>
     <td><img src="https://i.ibb.co/n0z5tL3/0038.png"/></td>
     <td><img src="https://i.ibb.co/VqBDXDC/0039.png"/></td>
     <td><img src="https://i.ibb.co/yh0Z5pF/0005.png"/></td>
   </tr>
-</table> -->
+</table>
 <br>
 <h3>Toki :heavy_check_mark:</h3> 
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
