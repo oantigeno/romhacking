@@ -74,7 +74,7 @@ A escolha dos projetos não é feita por popularidade título, apenas por dispon
 <br>
 <br>
 <h1>:joystick: Traduções Lançadas</h1>
-As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-la.<br>
+As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas de um arquivo .txt com informações sobre o que foi feito na tradução e também como aplicá-la.<br><br>
 <b>Clique, com o botão direito para abrir uma nova aba, nos links para visitar a respectiva galeria de imagens de cada tradução. A galeria completa de albuns pode ser vista em https://antigeno.imgbb.com/albums</b>
 <br>
 <br>
