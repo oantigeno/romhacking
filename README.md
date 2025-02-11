@@ -116,7 +116,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 </table>
 <br>
 <h3>Willow - CPS1 :heavy_check_mark:</h3>
-<b>Lançamento: 15/05/2019</b><br>
+<b>Lançamento:</b> 15/05/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/rky6dC<br>
 <table>
@@ -131,7 +131,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <!-- GAME BOY -->
 <h2>Game Boy - GB :three: </h2>
 <h3>Cliffhanger :heavy_check_mark:</h3>
-<b>Lançamento: 17/11/2019</b><br>
+<b>Lançamento:</b> 17/11/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/5WFBM4 <br>
 <table>
@@ -144,7 +144,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 </table>
 <br>
 <h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3>
-<b>Lançamento: 31/05/2024</b><br>
+<b>Lançamento:</b> 31/05/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/mFLzYD <br>
 <table>
@@ -157,7 +157,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 </table>
 <br>
 <h3>Robocop 2 :heavy_check_mark:</h3>
-<b>Lançamento: 01/10/2024</b><br>
+<b>Lançamento:</b> 01/10/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
 :camera: https://ibb.co/album/xqHpnY<br>
 <table>
@@ -172,7 +172,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG :one:</h2>
 <h3>Psychic World :heavy_check_mark:</h3>
-<b>Lançamento: 13/01/2019</b><br>
+<b>Lançamento:</b>13/01/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 Imagens: https://ibb.co/album/LvGSDb<br>
 <table>
@@ -187,7 +187,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD :three:</h2>
 <h3>Atomic Runner :heavy_check_mark:</h3>
-<b>Lançamento: 27/05/2019</b><br>
+<b>Lançamento:</b>27/05/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/nzptw2<br>
 <table>
@@ -200,7 +200,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 </table>
 <br>
 <h3>Atomic Robo-Kid :heavy_check_mark:</h3> 
-<b>Lançamento: 03/02/2019</b><br>
+<b>Lançamento: </b>03/02/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Ws9YtY<br>
 <table>
@@ -213,7 +213,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 </table>
 <br>
 <h3>Insector X :heavy_check_mark:</h3>
-<b>Lançamento: 09/12/2017</b><br>
+<b>Lançamento:</b>09/12/2017<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/9bbXXj<br>
 <table>
@@ -228,7 +228,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS :three:</h2>
 <h3>Rastan :heavy_check_mark:</h3>
-<b>Lançamento: 06/03/2019</b><br>
+<b>Lançamento:</b> 06/03/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/NxcShj<br>
 <table>
@@ -241,7 +241,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 </table>
 <br>
 <h3>The Terminator :heavy_check_mark:</h3>
-<b>Lançamento: 31/08/2024</b><br>
+<b>Lançamento: </b>31/08/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/DfVf4K<br>
 <table>
@@ -254,7 +254,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 </table>
 <br>
 <h3>Strider :heavy_check_mark:</h3>
-<b>Lançamento: 24/12/2024</b><br>
+<b>Lançamento: </b>24/12/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/RYkBC9<br><br>
 <table>
@@ -269,7 +269,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <!-- SUPER NINTENDO -->
 <h2>Super NES - SNES :one:</h2>
 <h3>3 Ninjas Kick Back :heavy_check_mark: </h3>
-<b>Lançamento: 01/03/2020</b><br>
+<b>Lançamento: </b>01/03/2020<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/pvbRcL<br>
 <table>
@@ -285,7 +285,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 Todas as traduções de consoles, portáteis e outros que não são das eras 8 e 16 bits, serão listadas aqui.
 <h2>Game Boy Advance - GBA :three:</h2>
 <h3>Justice League: Injustice For All</h3>
-<b>Lançamento: 22/04/2004</b><br>
+<b>Lançamento: </b>22/04/2004<br>
 <b>Status:</b> Textos: 100% - Acentuação: 99% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/Q9YHwP<br>
 <table>
@@ -298,8 +298,8 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 </table>
 <br>
 <h3>Dinotopia: The Timestone Pirates</h3>
-<b>Lançamento: 16/02/2019</b><br>
-<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: Não necessária <br>
+<b>Lançamento: </b>16/02/2019<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: -<br>
 :camera: https://ibb.co/album/6NWjjq<br>
 <table>
   <tr>
@@ -311,7 +311,7 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
 </table>
 <br>
 <h3>Lady Sia</h3>
-<b>Lançamento: 01/10/2024</b><br>
+<b>Lançamento:</b>01/10/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: - <br>
 :camera: https://ibb.co/album/7JY4KW <br>
 <table>
