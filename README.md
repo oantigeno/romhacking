@@ -85,7 +85,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <!-- ARCADE -->
 <h1>Arcade :three:</h1>
 <h3>Rastan Saga :heavy_check_mark:</h3>
-<b>Lançamento: 06/03/2019</b><br>
+<b>Lançamento: </b>06/03/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
 :camera: https://ibb.co/album/w7L4C7<br>
 <!--    <img width="50%" height="50%" src="https://i.ibb.co/3hvP1JJ/0001.png"/>
@@ -103,7 +103,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 </table>
 <br>
 <h3>Toki :heavy_check_mark:</h3>
-<b>Lançamento: 03/04/2019</b><br>
+<b>Lançamento:</b> 03/04/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
 :camera: https://ibb.co/album/WvXNb4<br>
 <table>
