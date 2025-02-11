@@ -130,19 +130,6 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <br>
 <!-- GAME BOY -->
 <h2>Game Boy - GB :three: </h2>
-<h3>Cliffhanger :heavy_check_mark:</h3>
-<b>Lançamento:</b> 17/11/2019<br>
-<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
-:camera: https://ibb.co/album/5WFBM4 <br>
-<table>
-  <tr>
-    <td><img src="https://i.ibb.co/CPn0D5t/bgb00001.png"/></td>
-    <td><img src="https://i.ibb.co/VSnq8Nr/bgb00015.png"/></td>
-    <td><img src="https://i.ibb.co/5xMsTcN/bgb00004.png"/></td>
-    <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
-  </tr>
-</table>
-<br>
 <h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3>
 <b>Lançamento:</b> 31/05/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
@@ -153,6 +140,19 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
     <td><img src="https://i.ibb.co/BZYvT6M/Alien-vs-Predator-The-Last-of-His-Clan-USA-13.png"/></td>
     <td><img src="https://i.ibb.co/mh4HD6x/Alien-vs-Predator-The-Last-of-His-Clan-USA-11.png"/></td>
     <td><img src="https://i.ibb.co/XkmwhfR/Alien-vs-Predator-The-Last-of-His-Clan-USA-12.png"/></td>
+  </tr>
+</table>
+<br>
+<h3>Cliffhanger :heavy_check_mark:</h3>
+<b>Lançamento:</b> 17/11/2019<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
+:camera: https://ibb.co/album/5WFBM4 <br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/CPn0D5t/bgb00001.png"/></td>
+    <td><img src="https://i.ibb.co/VSnq8Nr/bgb00015.png"/></td>
+    <td><img src="https://i.ibb.co/5xMsTcN/bgb00004.png"/></td>
+    <td><img src="https://i.ibb.co/6mppFgh/bgb00018.png"/></td>
   </tr>
 </table>
 <br>
@@ -186,16 +186,16 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <br>
 <!-- MEGA DRIVE -->
 <h2>Mega Drive - SMD :three:</h2>
-<h3>Atomic Runner :heavy_check_mark:</h3>
-<b>Lançamento:</b>27/05/2019<br>
+<h3>Insector X :heavy_check_mark:</h3>
+<b>Lançamento:</b>09/12/2017<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-:camera: https://ibb.co/album/nzptw2<br>
+:camera: https://ibb.co/album/9bbXXj<br>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/1RXnKQ0/Atomic-Runner-E-000.png"/></td>
-    <td><img src="https://i.ibb.co/rdCT7dM/Atomic-Runner-E-001.png"/></td>
-    <td><img src="https://i.ibb.co/867rq8T/Atomic-Runner-E-016.png"/></td>
-    <td><img src="https://i.ibb.co/PFfmCpL/Atomic-Runner-E-021.png"/></td>
+    <td><img src="https://i.ibb.co/7S1G0rZ/Insector-X-W-Jul-1990-001.png"/></td>
+    <td><img src="https://i.ibb.co/6WvdXzK/Insector-X-W-Jul-1990-002.png"/></td>
+    <td><img src="https://i.ibb.co/MpDqhSX/Insector-X-W-Jul-1990-003.png"/></td>
+    <td><img src="https://i.ibb.co/y8Jbj9s/Insector-X-W-Jul-1990-008.png"/></td>
   </tr>
 </table>
 <br>
@@ -212,19 +212,18 @@ Imagens: https://ibb.co/album/LvGSDb<br>
   </tr>
 </table>
 <br>
-<h3>Insector X :heavy_check_mark:</h3>
-<b>Lançamento:</b>09/12/2017<br>
+<h3>Atomic Runner :heavy_check_mark:</h3>
+<b>Lançamento:</b>27/05/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-:camera: https://ibb.co/album/9bbXXj<br>
+:camera: https://ibb.co/album/nzptw2<br>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/7S1G0rZ/Insector-X-W-Jul-1990-001.png"/></td>
-    <td><img src="https://i.ibb.co/6WvdXzK/Insector-X-W-Jul-1990-002.png"/></td>
-    <td><img src="https://i.ibb.co/MpDqhSX/Insector-X-W-Jul-1990-003.png"/></td>
-    <td><img src="https://i.ibb.co/y8Jbj9s/Insector-X-W-Jul-1990-008.png"/></td>
+    <td><img src="https://i.ibb.co/1RXnKQ0/Atomic-Runner-E-000.png"/></td>
+    <td><img src="https://i.ibb.co/rdCT7dM/Atomic-Runner-E-001.png"/></td>
+    <td><img src="https://i.ibb.co/867rq8T/Atomic-Runner-E-016.png"/></td>
+    <td><img src="https://i.ibb.co/PFfmCpL/Atomic-Runner-E-021.png"/></td>
   </tr>
 </table>
-<br>
 <!-- MASTER SYSTEM -->
 <h2>Master System - SMS :three:</h2>
 <h3>Rastan :heavy_check_mark:</h3>
