@@ -282,7 +282,7 @@ Todas as traduções de consoles, portáteis e outros que não são das eras 8 e
   </tr>
 </table>
 <br>
-<h3>Dinotopia: The Timestone Pirates :heavy_check_mark:</h3>
+<h3>Dinotopia: The Timestone Pirates</h3>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Ponteiros: 100% - Edição Gráfica: Não necessária <br>
 :camera: https://ibb.co/album/6NWjjq<br>
 <table>
