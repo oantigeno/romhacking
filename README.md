@@ -83,7 +83,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 :spiral_notepad:: Leiame.txt<br>
 :hash: Número de traduções
 <!-- ARCADE -->
-<h1>Arcade :three:</h1>
+<h2>Arcade :three:</h2>
 <h3>Rastan Saga :heavy_check_mark:</h3>
 <b>Lançamento: </b>06/03/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%</br> 
