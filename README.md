@@ -34,7 +34,7 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
 <br>
 <br>
 <b>Projetos atuais:</b>
-<table>
+<table><!--
   <tr>
     <th>Sistema</th>
     <th>Nome do Projeto</th>
@@ -58,7 +58,7 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
     <td>Alienators: Evoluation Continues</td>
     <td>:stop_button:</td>
     <td>Edição gráfica</td>
-  </tr>
+  </tr>-->
     <tr>
     <td>ARCADE</td>
     <td>Rastan Saga 2</td>
