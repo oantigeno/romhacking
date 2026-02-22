@@ -184,7 +184,7 @@ Imagens: https://ibb.co/album/Xx2hXX<br>
 </table>
 <br>
 <!-- GAME GEAR -->
-<h2>Game Gear - SGG :one:</h2>
+<h2>Game Gear - SGG :two:</h2>
 <h3>Psychic World :heavy_check_mark:</h3>
 <b>Lançamento:</b>13/01/2019<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
