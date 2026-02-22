@@ -173,7 +173,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 <h3>Tarzan - Lord of the Jungle :heavy_check_mark:</h3>
 <b>Lançamento:</b>22/02/2026<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: [https://ibb.co/album/Xx2hXX](https://ibb.co/album/Xx2hXX)<br>
+Imagens: https://ibb.co/album/Xx2hXX<br>
 <table>
   <tr>
     <td><img src="https://i.ibb.co/8L1QYqb8/imagem002.png"/></td>
@@ -200,7 +200,7 @@ Imagens: https://ibb.co/album/LvGSDb<br>
 <h3>Tarzan - Lord of the Jungle :heavy_check_mark:</h3>
 <b>Lançamento:</b>22/02/2026<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
-Imagens: [https://ibb.co/album/vCshxd](https://ibb.co/album/vCshxd)<br>
+Imagens: https://ibb.co/album/vCshxd<br>
 <table>
   <tr>
     <td><img src="https://i.ibb.co/Ndxyz7VH/tarzan-gg-020.png"/></td>
