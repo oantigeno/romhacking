@@ -206,7 +206,7 @@ Imagens: https://ibb.co/album/vCshxd<br>
     <td><img src="https://i.ibb.co/Ndxyz7VH/tarzan-gg-020.png"/></td>
     <td><img src="https://i.ibb.co/hxYW7D5Y/tarzan-gg-021.png"/></td>
     <td><img src="https://i.ibb.co/4gJfx24R/tarzan-gg-007.png"/></td>
-    <td><img src="https://ibb.co/My1V47tB"/></td>
+    <td><img src="https://i.ibb.co/tyLqXC0/imagem020.png"/></td>
   </tr>
 </table>
 <br>
