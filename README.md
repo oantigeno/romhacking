@@ -27,6 +27,10 @@ Robocop 2 - Gameboy - v1.03<br>
 <ins><b>24/12/2024</b></ins>:fire:<br>
 Strider - Master System - v1.01<br>
 <i>Release inicial</i><br>
+<ins><b>22/02/2026</b></ins>:fire:<br>
+Tarzan - Lord of the Jungle - Game Gear - v1.03<br>
+Tarzan - Lord of the Jungle - Game Gear - v1.02<br>
+<i>Release inicial</i><br>
 <br>
 <br>
 <h1>:hammer_and_wrench: Projetos</h1>
@@ -129,7 +133,7 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
 </table>
 <br>
 <!-- GAME BOY -->
-<h2>Game Boy - GB :three: </h2>
+<h2>Game Boy - GB :four: </h2>
 <h3>Alien vs Predator: The Last of His Clan :heavy_check_mark:</h3>
 <b>Lançamento:</b> 31/05/2024<br>
 <b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100%<br>
@@ -169,6 +173,19 @@ As traduçoes listadas abaixo estão disponíveis no formato .ips acompanhadas d
   </tr>
 </table>
 <br>
+<h3>Tarzan - Lord of the Jungle :heavy_check_mark:</h3>
+<b>Lançamento:</b>22/02/2026<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: [https://ibb.co/album/Xx2hXX](https://ibb.co/album/Xx2hXX)<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/8L1QYqb8/imagem002.png"/></td>
+    <td><img src="https://i.ibb.co/HZ3xHDm/imagem-003.png"/></td>
+    <td><img src="https://i.ibb.co/FbKX0Hdg/imagem008.png"/></td>
+    <td><img src="https://i.ibb.co/tyLqXC0/imagem020.png"/></td>
+  </tr>
+</table>
+<br>
 <!-- GAME GEAR -->
 <h2>Game Gear - SGG :one:</h2>
 <h3>Psychic World :heavy_check_mark:</h3>
@@ -181,6 +198,18 @@ Imagens: https://ibb.co/album/LvGSDb<br>
     <td><img src="https://i.ibb.co/PWX0vsN/imagem2.png"/></td>
     <td><img src="https://i.ibb.co/fqfc0kK/Psychic-World-U-16.png"/></td>
     <td><img src="https://i.ibb.co/L0J1SQV/intro-8.png"/></td>
+  </tr>
+</table>
+<h3>Tarzan - Lord of the Jungle :heavy_check_mark:</h3>
+<b>Lançamento:</b>22/02/2026<br>
+<b>Status:</b> Textos: 100% - Acentuação: 100% - Programação: 100% - Ponteiros: 100% - Edição Gráfica: 100% <br>
+Imagens: [https://ibb.co/album/vCshxd](https://ibb.co/album/vCshxd)<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/Ndxyz7VH/tarzan-gg-020.png"/></td>
+    <td><img src="https://i.ibb.co/hxYW7D5Y/tarzan-gg-021.png"/></td>
+    <td><img src="https://i.ibb.co/4gJfx24R/tarzan-gg-007.png"/></td>
+    <td><img src="https://ibb.co/My1V47tB"/></td>
   </tr>
 </table>
 <br>
