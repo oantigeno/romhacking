@@ -26,7 +26,7 @@ Strider - Master System - v1.01<br>
 <i>Release inicial</i><br><br>
 <ins><b>22/02/2026</b></ins>:fire:<br>
 Tarzan - Lord of the Jungle - Game Gear - v1.03<br>
-Tarzan - Lord of the Jungle - Game Gear - v1.02<br>
+Tarzan - Lord of the Jungle - GameBoy - v1.02<br>
 <i>Release inicial</i><br>
 <br>
 <br>
