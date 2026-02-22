@@ -6,9 +6,6 @@ Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois cl
 <br>
 <h1>:newspaper: Últimas traduções</h1>
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
-<ins>31/05/2024</ins><br>
-Alien vs Predator: The Last of His Clan - GameBoy -  v1.05<br>
-<i>Release inicial</i><br><br>
 <ins>31/08/2024</ins><br>
 The Terminator - Master System -  v1.09<br>
 <i>Release inicial</i><br><br>
