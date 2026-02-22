@@ -21,7 +21,7 @@ Lady Sia - Gameboy Advance - v1.07<br>
 <ins>30/11/2024</ins><br>
 Robocop 2 - Gameboy - v1.03<br>
 <i>Release inicial</i><br><br>
-<ins><b>24/12/2024</b></ins>:fire:<br>
+<ins><b>24/12/2024</b></ins><br>
 Strider - Master System - v1.01<br>
 <i>Release inicial</i><br><br>
 <ins><b>22/02/2026</b></ins>:fire:<br>
