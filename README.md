@@ -26,7 +26,7 @@ Robocop 2 - Gameboy - v1.03<br>
 <i>Release inicial</i><br><br>
 <ins><b>24/12/2024</b></ins>:fire:<br>
 Strider - Master System - v1.01<br>
-<i>Release inicial</i><br>
+<i>Release inicial</i><br><br>
 <ins><b>22/02/2026</b></ins>:fire:<br>
 Tarzan - Lord of the Jungle - Game Gear - v1.03<br>
 Tarzan - Lord of the Jungle - Game Gear - v1.02<br>
