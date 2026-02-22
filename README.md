@@ -35,7 +35,7 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
 <br>
 <br>
 <b>Projetos atuais:</b>
-<table><!--
+<table>
   <tr>
     <th>Sistema</th>
     <th>Nome do Projeto</th>
@@ -43,11 +43,11 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
     <th>Descrição/Motivo do Status</th>
   </tr>
   <tr>
-    <td>SMS</td>
-    <td>Forgotten Worlds</td>
-    <td>:stop_button:</td>
-    <td>-</td>
-  </tr>
+    <td>GG</td>
+    <td>The Terminator</td>
+    <td>:play_or_pause_button:</td>
+    <td>Em andamento</td>
+  </tr><!--
   <tr>
     <td>SMS</td>
     <td>Vigilante</td>
