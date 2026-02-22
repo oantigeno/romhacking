@@ -31,7 +31,7 @@ Tarzan - Lord of the Jungle - GameBoy - v1.02<br>
 <br>
 <br>
 <h1>:hammer_and_wrench: Projetos</h1>
-Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo.
+Os projetos em que estou trabalhando, em pausa ou planejados como futuros projetos estão listados logo abaixo:
 <br>
 <br>
 <b>Projetos atuais:</b>
@@ -68,10 +68,10 @@ Os projetos em que estou trabalhando, em pausa ou planejados como futuros projet
   </tr>
 </table>
 <br>
-O andamento depende de tempo disponível para atuação, complexidade do hardware e do projeto, não havendo possibilidade de uma data específica para conclusão.
+O andamento de cada projeto depende de tempo disponível para atuação, complexidade de hardware e complexidade do projeto, não havendo possibilidade de uma data específica para conclusão.
 <br>
 <br>
-A escolha dos projetos não é feita por popularidade título, apenas por disponibilidade de tempo, complexidade e aprendizado. 
+A escolha dos projetos é feita com base na disponibilidade de tempo e complexidade do projeto, não sendo levado em consideração popularidade de console, jogo ou genêro. 
 <br>
 <br>
 <h1>:joystick: Traduções Lançadas</h1>
