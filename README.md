@@ -2,7 +2,16 @@
 Aqui é repositório para minhas traduções, para português brasileiro, de roms de consoles, portáteis e arcades da eras 8/16-bits e também outras. <br><br>
 <b><ins>Download</ins></b><br>
 Para baixar uma tradução, clique sobre o arquivo .zip/rar desejado e depois clique no ícone Download Raw File, no canto superior direito.<br>
-<br>
+
+<b><ins>Termos de uso</ins></b><br>
+1. Não obtenha lucro com essa tradução. 
+2. Não redistribua como sendo sua.
+3. Não modifique como sendo sua.
+4. Não redistribua em site, plataforma ou serviço que obtenham lucro.
+5. Não distribua o .ips aplicado à uma rom.
+6. Não venda essa tradução como cartucho reprogramado.
+7. Mantenha sempre o arquivo .txt junto ao arquivo .ips.
+
 <br>
 <h1>:newspaper: Últimas traduções</h1>
 Aqui você conferir ou acompanhar as últimas traduções lançadas e também notícias sobre projetos e outros.<br><br>
